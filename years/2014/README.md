@@ -1,0 +1,81 @@
+# Spokes 2014
+
+## Documents (54)
+
+- ★ [Bicycle Data Analysis](../../docs/hub/teaching/2014/teaching/curriculum-planning/lesson-plans/2014_bicycle-data-analysis.md) — Lesson plan: Bicycle Data Analysis workshop with objectives and activities.
+- ★ [Bicycle Lesson Goals](../../docs/hub/teaching/2014/teaching/curriculum-planning/lesson-plans/2014_bicycle-lesson-goals.md) — Lesson plan: Bicycle History and Engineering (ball bearings, pneumatic tires, steel tubing) with technical objectives.
+- ★ [Curriculum Proposal Final](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_curriculum-proposal-final.md) — Final 2014 curriculum summary: formats (formal classes, library/camp events), list of classes each team member co-taught.
+- ★ [Design Thinking Workshop](../../docs/hub/teaching/2014/teaching/curriculum-planning/lesson-plans/2014_design-thinking-workshop.md) — Lesson plan: Design Thinking workshop using How Might We prompts.
+- ★ [Funding Sources / Tracking Documents: Funding Scheduling](../../docs/2019/fundraising/past-year-materials/2014/2014_funding-scheduling.md) — 2014 grant/fellowship tracker with deadlines, amounts requested and received (PSC, Harvard, MITFCU, IDEAS, DUE, GEL, CAMIT, Edgerton $3,500, UROP etc.), MIT dep
+- ★ [Funding Sources / Tracking Documents: Grant Deadlines](../../docs/2019/fundraising/past-year-materials/2014/2014_grant-deadlines.md) — 2014 list of MIT and outside grants with deadline, amount, eligibility and links (Davis Projects for Peace, IDEAS Global Challenge, PSC fellowship and Expeditio
+- ★ [Grant Deadlines](../../docs/2017/fundraising/2014_grant-deadlines.md) — 2014 grant deadline list (Davis Projects for Peace, IDEAS, PSC, MITFCU, Eloranta, Pressman, CAMIT, OME, TBP, Kelly-Douglas, DUE, UROP...) with amounts, eligibil
+- ★ [Intended 2014 teaching locations(1)](../../docs/hub/teaching/2014/teaching/2014_intended-2014-teaching-locations-1.md) — Updated 2014 teaching stops by state/city with status and contacts (Carson City library confirmed, Cedar City 4H/Girl Scouts, Telluride etc.).
+- ★ [Laser transmitter](../../docs/hub/teaching/2014/teaching/curriculum-planning/lesson-plans/2014_laser-transmitter.md) — Lesson plan: Laser transmitter - analog signals, EM radiation, building a circuit that transmits audio via laser.
+- ★ [Lean Manufacturing Simulation](../../docs/hub/teaching/2014/teaching/curriculum-planning/lesson-plans/2014_lean-manufacturing-simulation.md) — Lesson plan: Lean Manufacturing Simulation activity.
+- ★ [Logistics Questionnaire v2](../../docs/hub/teaching/2014/teaching/2014_logistics-questionnaire-v2.md) — Logistics questionnaire v2 to send to schools in planning stages (numbers, time, space, supplies).
+- ★ [Notes from PSC Workshop](../../docs/2017/fundraising/2014_notes-from-psc-workshop.md) — Detailed notes from the PSC Fellowship writing workshop: what reviewers want (community partner, safety, budget, sustainability), reasons for rejection, funding
+- ★ [Spokes 2014 Info](../../docs/hub/teaching/2014_spokes-2014-info.md) — Interview-style recap of how 2014 teaching worked: informal open-table events at festivals/libraries plus periodic full workshops, what changed, advice.
+- [2.4.14 IDEAS Feedback](../../docs/2017/fundraising/2014_2-4-14-ideas-feedback.md) — Feedback from MIT IDEAS Global Challenge generator dinner (Feb 2014): clarify impact, quantify it, innovation angle, development grant option.
+- [3_12 Eloranta Workshop](../../docs/2017/fundraising/2014_3-12-eloranta-workshop.md) — Notes from the MIT Eloranta fellowship workshop: $6,000 per project, ~45 applicants, 2,000-word limit, faculty recommender, budget appendix, survey samples, dea
+- [Davis Peace Grant -- submitted application](../../docs/2017/fundraising/2014_davis-peace-grant-submitted-application.md) — Submitted 2014 Davis Projects for Peace application with $30,250 budget breakdown; the grant was rejected (see Grant Deadlines). Model grant narrative.
+- [Exit Survey v1](../../docs/hub/teaching/2014/teaching/2014_exit-survey-v1.md) — First draft student exit survey (math/science are fun before/after scales).
+- [Funding Scheduling](../../docs/2017/fundraising/2014_funding-scheduling.md) — 2014 grants/fellowships tracker with deadlines, amounts requested and received (Harvard $5,000, MITFCU $4,000, Edgerton $3,500, DUE $1,000...; PSC rejected). Su
+- [Funding Sources / Corporate Sponsorships: Sponsor Contact Sheet and Potential Sponsor Brainstorm](../../docs/2019/fundraising/past-year-materials/2014/2014_sponsor-contact-sheet-and-brainstorm.md) — 2014 corporate sponsor contact sheet (Internet Association, Wolfram Alpha, SpaceX, JetBlue, Boeing, Twitter, Khan Academy, Harvard SEAS, Futek, Microsoft, Kayak
+- [Funding Sources / Tracking Documents: Team Members, People to Contact](../../docs/2019/fundraising/past-year-materials/2014/2014_team-members-people-to-contact.md) — 2014 per-rider outreach log (company/department, contact, date, request, response): edX, Edgerton Center, OME, GEL, Boeing, MechE, Bose, TI, SpaceX, Twitter, SV
+- [Funding Sources: 2014 sponsor letters (SVB, Internet Association, Twitter follow-up, JetBlue, Adventure Cycling, One-pager, drafts)](../../docs/2019/fundraising/past-year-materials/2014/2014_sponsor-letters-2014.md) — 2014 sponsor letters kept in the 2017 Funding Sources folder: Silicon Valley Bank (with the full 2014 curriculum outline), Internet Association, Twitter women-i
+- [Funding Sources: Davis Projects for Peace application (submitted)](../../docs/2019/fundraising/past-year-materials/2014/2014_davis-peace-grant-2014.md) — Submitted 2014 Davis Projects for Peace application ($10k; rejected per the grant tracker). Framing: STEM education to bridge cultural groups. Versions 1 and 2 
+- [Funding Sources: Eloranta workshop notes and PSC Fellowship materials](../../docs/2019/fundraising/past-year-materials/2014/2014_eloranta-and-psc-fellowship-2014.md) — 2014 notes from the Eloranta fellowship workshop (2-4 awards of $6,000, 2,000-word proposal, faculty letter needed) and the MIT PSC writing workshop (safety is 
+- [Funding Sources: Global IDEAS Challenge (guidelines, feedback, development grant, final scope)](../../docs/2019/fundraising/past-year-materials/2014/2014_global-ideas-challenge-2014.md) — MIT IDEAS Global Challenge materials for 2014: guideline excerpt, feedback notes from the Feb 4 session (quantify impact, what is innovative), the $1,000 develo
+- [Funding Sources: MITInternalFunding10.2](../../docs/2019/fundraising/past-year-materials/2014/2014_mit-internal-funding-list.md) — MIT PSC handout listing internal MIT funding sources for service projects (Lemelson-MIT, $100K, CAMIT, Kelly-Douglas, DUE Grants for Student Ideas, etc.) plus e
+- [Informal Education Brainstorm](../../docs/hub/teaching/2014/teaching/2014_informal-education-brainstorm.md) — Ideas for informal education during the trip: bike-fixing parties in town squares, spontaneous events.
+- [Intro_Exit Surveys v2](../../docs/hub/teaching/2014/teaching/2014_intro-exit-surveys-v2.md) — Draft intro and exit survey design aligned to Spokes goals.
+- [Logistics Questionnaire v1](../../docs/hub/teaching/2014/teaching/2014_logistics-questionnaire-v1.md) — Questions to ask hosts: students, time, space, equipment.
+- [PSC Fellowship (Emma) V1](../../docs/2017/fundraising/2014_psc-fellowship-emma-v1.md) — Draft 2014 PSC Fellowship application (Emma): $4,000 ask, community partner (Teach for America), work plan and safety. 2014 PSC applications were rejected.
+- [Spokes Marketing Flyer Parkersburg](../../docs/hub/teaching/2014/teaching/2014_spokes-marketing-flyer-parkersburg.md) — 2014 marketing flyer text for a Parkersburg stop (seven STEM students and alumni from Harvard/MIT).
+- [Sponsor Contact Sheet](../../docs/2017/fundraising/2014_sponsor-contact-sheet.md) — 2014 sponsor outreach tracker (Internet Association, Wolfram, SpaceX, JetBlue, Boeing, Twitter, Khan Academy, Harvard SEAS, Futek, Adventure Cycling, TI) with o
+- [Teaching Location Updates](../../docs/hub/teaching/2014/teaching/2014_teaching-location-updates.md) — Final logistics for 2014 teaching stops, e.g. Carson City library hours and workshop timing.
+- [Teaching Supplies](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_teaching-supplies.md) — 2014 teaching supply lists by instructor (general supplies, lasers, circuits parts) with quantities and costs.
+- [Team Members: People to Contact](../../docs/2017/fundraising/2014_team-members-people-to-contact.md) — 2014 per-person outreach log (MIT depts/labs and companies contacted, dates, responses: Edgerton yes + supervisor, GEL yes, Boeing no).
+- [_LiveEdit_ Curriculum Planning](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_liveedit-curriculum-planning.md) — Brainstorm of 2014 curriculum ideas by instructor (AM radio, EM waves, circuits).
+- [scope_feb25_v2](../../docs/2017/fundraising/2014_scope-feb25-v2.md) — 2014 IDEAS Global Challenge scope statement (Feb 25 version): mission, 425 students in 2013, ~10 schools, budget, curriculum appendix. Best surviving full propo
+- [Curriculum Proposal V1.0](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_curriculum-proposal-v1-0.md) — Early draft of the 2014 curriculum outline incl. informal community activities.
+- [Curriculum Proposal V2.0](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_curriculum-proposal-v2-0.md) — Second draft of 2014 curriculum proposal (half-day to full-day workshops).
+- [CurriculumProposalFinal](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_curriculumproposalfinal.md) — PDF of final 2014 curriculum summary.
+- [CurriculumProposalV3.0](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_curriculumproposalv3-0.md) — PDF of V3.0 2014 curriculum proposal.
+- [Draft Letter for Bruce](../../docs/2017/fundraising/2014_draft-letter-for-bruce.md) — Draft recommendation letter from MIT-GEL's Bruce Mendelsohn supporting the 2014 team leader's PSC application.
+- [Funding Sources: Kickstarter reward ideas and MIT Giving responses](../../docs/2019/fundraising/past-year-materials/2014/2014_kickstarter-and-mit-giving-2014.md) — 2014 Kickstarter reward brainstorm (postcards from every state, name tans, campfire song video) and the small MIT Giving mailing-address form responses (address
+- [Hello from Spokes America](../../docs/2017/fundraising/2014_hello-from-spokes-america.md) — 2014 sponsorship letter to Adventure Cycling Association (route followed Western Express/TransAmerica Trail).
+- [One-pager](../../docs/2017/fundraising/2014_one-pager.md) — 2014 one-page Spokes overview used for sponsors.
+- [Reward Ideas](../../docs/2017/fundraising/2014_reward-ideas.md) — Crowdfund reward ideas (postcards from each state, name tanned onto forearms, singing video) plus links to promo videos from the old Reference Materials doc.
+- [SPOKES_TFArecommendation](../../docs/2017/fundraising/2014_spokes-tfarecommendation.md) — Recommendation from Teach For America recruitment manager endorsing Spokes 2014 (TFA connecting schools, teacher training).
+- [SVB sponsor letter](../../docs/2017/fundraising/2014_svb-sponsor-letter.md) — 2014 sponsor letter to Silicon Valley Bank (example of customizing to a company).
+- [Sponsorship Request V4.0 JetBlue](../../docs/2017/fundraising/2014_sponsorship-request-v4-0-jetblue.md) — 2014 letter to JetBlue Foundation asking for donated flights Boston/NY to SF (final version).
+- [Sponsorship Request for Internet Foundation](../../docs/2017/fundraising/2014_sponsorship-request-for-internet-foundation.md) — 2014 sponsor letter to the Internet Association with the 2014 curriculum outline (Raspberry Pi car, math games, circuits, climbing mechanics, estimation physics
+- [Teaching supplies](../../docs/hub/teaching/2014/teaching/curriculum-planning/2014_teaching-supplies-2.md) — Instructor supply list (lasers, solar cell, LM386, capacitors, resistors).
+- [Twitter Women & Stem follow-up](../../docs/2017/fundraising/2014_twitter-women-stem-follow-up.md) — 2014 follow-up letter to Twitter (Colin Crowell) explaining how Spokes engages girls in STEM; example of answering a sponsor's concerns.
+- [_LiveEdit_ Twitter Girls Outreach Brainstorm](../../docs/hub/teaching/2014/teaching/2014_liveedit-twitter-girls-outreach-brainstorm.md) — Brainstorm for reaching girls and women via Twitter and girls-only workshops.
+- [devgrant_feb25_v2](../../docs/2017/fundraising/2014_devgrant-feb25-v2.md) — $1,000 IDEAS development-grant request: Adventure Cycling maps ($200), first aid/CPR ($200), background checks ($600).
+- [initial_proposal_guidelines](../../docs/2017/fundraising/2014_initial-proposal-guidelines.md) — MIT IDEAS Global Challenge initial proposal guidelines (2014 cycle).
+
+## Blog posts (20)
+
+- 2014-03-30 · [Spokes 2014 and What's Driving Me](../../blogs/2014/2014-03-30_spokes-2014-and-whats-driving-me.md)
+- 2014-05-03 · [Self-driven learning and helping students find their answers](../../blogs/2014/2014-05-03_self-driven-learning-and-helping-students-find.md)
+- 2014-05-19 · [It builds character](../../blogs/2014/2014-05-19_it-builds-character.md)
+- 2014-06-08 · [Final Countdown](../../blogs/2014/2014-06-08_final-countdown.md)
+- 2014-06-11 · [Day 3: Hitting the Hills](../../blogs/2014/2014-06-11_day-3-hitting-the-hills.md)
+- 2014-06-11 · [Who drives the van?](../../blogs/2014/2014-06-11_who-drives-the-van.md)
+- 2014-06-14 · [Days 4 & 5: Through the Mountains and Desert Bound](../../blogs/2014/2014-06-14_days-4-5-through-the-mountains-and-desert-bound.md) — Woodfords, CA → Carson City, NV
+- 2014-06-15 · [Life in a Western Town...](../../blogs/2014/2014-06-15_life-in-a-western-town.md)
+- 2014-06-18 · [Gunnin' for the top...](../../blogs/2014/2014-06-18_gunnin-for-the-top.md)
+- 2014-06-22 · [What is Your Battle Cry?](../../blogs/2014/2014-06-22_what-is-your-battle-cry.md)
+- 2014-06-26 · [Ne tirez pas, je suis un crayon!*](../../blogs/2014/2014-06-26_ne-tirez-pas-je-suis-un-crayon.md)
+- 2014-06-28 · [Great bouncing icebergs! (actually glaciers and mountains and canyons)](../../blogs/2014/2014-06-28_great-bouncing-icebergs-actually-glaciers-and.md) — Escalante, UT
+- 2014-07-02 · [I've biked before, but never like this.](../../blogs/2014/2014-07-02_ive-biked-before-but-never-like-this.md)
+- 2014-07-10 · [We're in the Sister City to Dushanbe, Tajikistan](../../blogs/2014/2014-07-10_were-in-the-sister-city-to-dushanbe-tajikistan.md) — Boulder, CO
+- 2014-07-15 · [State Hopping and Wind](../../blogs/2014/2014-07-15_state-hopping-and-wind.md) — Brush, CO → St. Francis, KS · 120 mi
+- 2014-07-17 · [Kansas!](../../blogs/2014/2014-07-17_kansas.md)
+- 2014-07-24 · [Off the Katy Trail and into St. Louis](../../blogs/2014/2014-07-24_off-the-katy-trail-and-into-st-louis.md) — St. Louis, MO
+- 2014-07-26 · [Learning with Legos](../../blogs/2014/2014-07-26_learning-with-legos.md)
+- 2014-07-31 · [Teamwork: The Missing Element in Engineering](../../blogs/2014/2014-07-31_teamwork-the-missing-element-in-engineering.md)
+- 2014-08-07 · [The hidden lessons](../../blogs/2014/2014-08-07_the-hidden-lessons.md)

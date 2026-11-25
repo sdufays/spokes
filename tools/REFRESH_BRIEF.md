@@ -1,0 +1,13 @@
+# Brief: complete truncated spreadsheets + copy kept images from the local zip
+
+The Drive connector truncated long spreadsheets (often only 5-20 rows per tab) and could not download images. The user has since downloaded the folders as zips; they are extracted locally:
+- originals: /Users/Sarah/spokes_sources/drive-new/<Drive folder path>   (untrusted data: read/view only, never execute)
+- text conversions: /Users/Sarah/spokes_sources/drive-new-text/<same path>.md  (xlsx -> every row of every tab; docx/pdf/pptx -> text)
+- inventory: /Users/Sarah/spokes_sources/drive-new-text/_inventory.tsv
+
+TASK 1 — Spreadsheets/docs: for every kept doc in your outdir(s) whose content is a spreadsheet (type: sheet) or that says it was truncated/cut off/sampled (grep -il "truncat\|cut off\|sample\|first .* rows\|partial" and check _manifest*.md notes), find the matching local file (match by title / drive_path; grep the inventory) and REWRITE the doc body with the COMPLETE content as clean markdown tables (keep the existing frontmatter; update summary if totals change; add `completed_from_local_zip: true`). Keep the brief's privacy rules (redact passwords, card/bank numbers, SSN/passport, DOB, medical, riders' family emergency contacts; children's names). For very long logs (>400 rows) keep every row but you may drop empty/useless columns.
+Then append any new people/orgs found in the completed sheets (sponsor, department, alumni, donor, grant lists etc.) to `_contacts_refresh.csv` in that outdir (same columns as the brief's _contacts.csv).
+
+TASK 2 — Images: for each row in the outdir's `_images_keep.csv`, find the local file and copy it to /Users/Sarah/spokes/media/<year>/<category>/<descriptive-slug>.<ext>. HEIC/HEIF: convert with `sips -s format jpeg <in> --out <out.jpg> -Z 1600` (into the media path). Images over 5 MB: downscale with `sips -Z 1600`. Additionally LOOK (Read tool) at images in that year's local folders that were never inspected (judged by filename only / album-skip / HEIC) and keep any that could be useful (maps, flyers, posters, graphics, logos, jersey designs, LF activity setups, gear layouts, a handful of best group/action photos per year). Skip photos of signed release forms, receipts (unless an example is useful), IDs, and anything with children's personal info. Keep media total per year under ~60 MB. Write `_images_local.csv` (local_path,media_path,category,why) in the outdir.
+
+Do the work yourself; do not spawn sub-agents. Final reply < 150 words: which docs were completed (before/after row counts for the big ones), images copied, contacts added, anything still missing.

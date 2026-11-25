@@ -5,3 +5,5 @@ __pycache__/
 logs/
 raw/blog_batches/
 tools_tmp*/
+raw/drive/**/_parts/
+raw/drive/**/_work/

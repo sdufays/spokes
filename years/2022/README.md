@@ -1,0 +1,310 @@
+# Spokes 2022
+
+## Highlights (from Drive 2022)
+
+# Highlights: Spokes 2022 folder (+ Onboarding 2023 Master Guides)
+
+- 2022 funds confirmed were roughly: Edgerton Center $4,000, ESG $7,500, Lightforce $5,000 (3D-printing sponsor), St Anthony Foundation $4,000, TBP $2,000 (asked $5,000), Baker Foundation $1,759-$2,000, MIT Coop $1,500, many MIT departments $500-$1,000 each, plus $10,000 rollover from 2020; budget was about $30k (gear total $34.4k with 7 participants). (2022, source: 2022 Spokes Fundraising Tracking Spreadsheet / Final Budget)
+- Most 2022 grant money came from MIT sources and education foundations; the Mad Money Grant, Bridgestone, Saxena, Awesome Foundation, Akamai, STEM Action were all still pending in the tracker. (2022, source: 2022 Spokes Fundraising Tracking Spreadsheet)
+- Maxwell believes the 12-page InDesign pamphlet (about $5 a copy at CopyTech) is what won the $5,000 Lightforce sponsorship. (2022, source: Media and Communications Master Guide)
+- In 2024 most money ($45,330) came from the MIT J-WEL Education Grant; applications open in February, decision in late April; pursue other sources in parallel. (2024, source: Fundraising and Budget Master Guide)
+- Start fundraising in November; corporate budgets (TI, Microsoft, Dell) are gone by spring; December is when MIT departments have leftover funds. (2023-2026 guide, source: Fundraising and Budget Master Guide / The Spokes Master Guide)
+- Companies must register with MIT before donating (conflict-of-interest check); talk to Sandi Lipnoski early. (2022, source: Fundraising and Budget Master Guide)
+- Use the travel card for trip expenses (Concur report, receipts for >$75 and all food; missing receipt affidavit) and procard for gear/LF supplies (receipts within 2 weeks; no food, gas, or health-and-beauty items). Apply for 2 pro and 2 travel cards in January. (2026 guide, source: Fundraising and Budget Master Guide)
+- Budget breakdown idea: itemize bike gear at local bike shop prices; LF educational supplies for 500 kids cost about $230 per workshop (3D printing $230, chromatography $234). (2022, source: Spokes 2022 Final Budget)
+- Warm Showers: create an account saying you have a support car, start messaging in February, prefer hosts able to take 4+ people, get phone and address early; check host availability BEFORE fixing the route. (2022/2026, source: Route Planning and Housing Master Guide)
+- Housing ranking in 2022: Warm Showers, campsites, learning festivals, friends, MIT connections, churches, motels. Emailing all MIT alumni clubs yielded only 3 replies but one donated and one (Sam Ford, KY) organized an LF and many stays. (2022, source: Route Planning and Housing Master Guide)
+- Kentucky dogs chase cyclists: a 2022 rider crashed on the first KY day; carry an air horn. (2022, source: Route Planning and Housing Master Guide)
+- Utah: do not bike into Arches from Thompson Springs (no shoulder, heavy traffic; 2022 shuttled). Nevada's Loneliest Road (Eureka-Austin-Fallon) has no services; stock up in Ely. Highway 50 near Lake Tahoe becomes a freeway; use side roads. (2022, source: Route Planning and Housing Master Guide)
+- Day 1 of 2022 was 59 miles with a very late 11am start, riding until 9pm; build in 1-2 extra prep days in DC and start early. (2022, source: 2022 Route Plan)
+- Typical LF: 4 workshops in parallel, 4 sessions, 9-4pm; ask hosts about space, projector, lunch, photo release, publicity, housing; LFs at Hazard KY (Tom Cravens), Louisa VA, Newton KS and Bowling Green KY are repeat favorites. (2022/2026, source: Learning Festival & Workshops Master Guide)
+- LF lessons: a registration problem cut Hazard attendance in 2019 (a small practice LF before Hazard is wise); teach older kids where possible; use a status spreadsheet and call hosts that don't answer email; finish workshop prep before spring break. (2019, source: Learning Festival & Workshops Master Guide)
+- Bikes: 2022 bought Giant Revolt 2 (about $1,400) at Landry's with 15% off gear; 2026 chose matching Trek Checkpoint ALR3 gravel bikes (tubeless, 1x gearing, wide tires) with 20% Trek Cambridge discount and bike fits via CycleLifePT; budget $1,000-1,200 per bike if possible. (2022/2026, source: Onboarding FAQ / Gear and Car Master Guide)
+- Car rental: only Avis/Budget covers drivers under 21; add 4 drivers at the desk so roadside assistance works; do background checks early; minivan minimum; one-way rental costs a few thousand more plus very expensive bike shipping. (2023-2026, source: Gear and Car Master Guide)
+- 2026 skipped cooking entirely: one person called restaurants nightly asking for free meals, and each meal was thanked on Instagram. (2026, source: The Spokes Master Guide / Media Master Guide)
+- Instagram plan: member intros, collaboration posts with @mitedgerton, fundraising thank-yous (everyone reposts), weekly summer recap, one post per LF and per restaurant sponsor. (2026, source: Media and Communications Master Guide)
+- Timeline: Nov first meeting and roles; Jan apply for cards and finalize dates; Mar J-WEL application and MIT 24 Challenge crowdfunding; Apr finalize LFs/jerseys; May finalize housing and budget. (2026, source: The Spokes Master Guide)
+- Role list with headcounts (Fundraising 2, Finance 2-4, Route 3, LFs 2, Housing 3, Social 2, Gear 2, etc.) plus a past-members contact table in the Master Guide. (2026, source: The Spokes Master Guide)
+
+## Highlights (from Drive 2022)
+
+# Highlights part 1: Spokes 2022 (meetings, fundraising, route/LF, gear, food, onboarding)
+
+- Money raised: $38,676.52 in the account by end of summer (goal about $30K, later stated $35K); $10K rollover from 2020 sat on top; team wanted to leave at least $10K for 2023. Breakdown: Edgerton $4000, ESG $7500, Lightforce $5000, TBP $2000, SAEF $3600+$400 (last $400 after a post-trip report), Baker $1758.52, MIT COOP $1500, MathWorks $1000, Course 1 $1000, Course 2 $750, other departments $500 each, OME $500, Costco $500 gift card, individuals $6168. (2022, source: 2022 Spokes Fundraising Tracking Spreadsheet)
+- MIT departments are the most reliable early money: email dept heads and the senior financial officer in December, bump after Jan 3; Course 7, 14, 15, 17, 21 said no; SHASS says it does not fund ad hoc student requests (apply to the SHASS undergraduate fund). (2022, source: Fundraising Tracking Spreadsheet, MIT Departments tab)
+- Rejected grants in 2022: PKG, Alpkit, Michael Dell, Entergy, New Earth. Accepted: Edgerton, OME ($500, easy), MIT COOP ($1500, needs $1 COOP membership, stress education not travel), Baker, TBP, St Anthony Foundation ($4000), SAEF. Many foundations do not fund travel; frame asks around workshop supplies. (2022, source: Fundraising Tracking Spreadsheet)
+- Baker Foundation funds only MIT-community events: Spokes ran a bike repair/safety workshop (Apr 23 2022, about 50 RSVPs, pizza $200) and got reimbursed for tools/safety gear up to $2000; submit at least 3 weeks ahead, keep itemized receipts (separate Landrys invoice). (2022, source: 2022_02_10 Baker Foundation Meeting)
+- Company sponsorship rules from Edgerton: sponsors may not use the MIT name in ads; they sign an MIT sponsorship agreement (tiers: under $500, $500, $2000, $5000); money arrives by check/wire to the Spokes cost object. Lightforce Orthodontics paid $5000 (agreement dated Mar 5 2022, OGC approval needed). (2022, source: 2022_03_01 Meeting with Peggy; Lightforce agreement)
+- Budget reality: typical trip cost $27-30K; 2022 master-application line items totaled $29,293 (bikes $11,195, travel $7,800, consumables $4,150, educational $2,000). Rental van cost about 5x prior years. (2022, source: Master Application Document; Admissions Email Template)
+- Edgerton admin rules (Sandi): one or two travel cards (not the pro-card holder), a procurement card; bikes exceed the $3000 p-card limit so need a PO; use Coupa/Buy-to-Pay for suppliers; scan receipts as PDFs; an MIT lease is far cheaper than a rental and driving it back saves a lot; use cost object 2530032. (2022, source: 2022_01_19 Meeting with Sandra)
+- Gear policy: Spokes pays for 1 pair gloves, glasses, shorts, 1 jersey and 1 reflective jersey per rider; buy on your own and file an RFP with the finance person. Bikes: Giant Revolt 2 from Landrys ($1350, only model in stock during the Feb 2022 shortage; aim closer to $1000 next time); 15% off accessories; 3-bike Saris rack. (2022, source: 2022_03_15 Meeting; bike research; Required Gear)
+- Vehicle: minivan chosen over SUV (cargo and mpg); reserved May 31-Aug 29 via Sandi, pickup moved to Providence May 28; one driver per day; a member without MIT affiliation could not hold a travel card or drive under the insurance. (2022, source: 2022_04_19 Meeting; 2022_5_25 Meeting Minutes)
+- Route outline: DC (May 30) start, Stafford, Louisa County, Shenandoah, US Bike Route 76 through Hazard KY, Bowling Green, Illinois, Missouri/Route 66, Kansas, Colorado Rockies, Utah parks, USBR 79/50 across Nevada (Loneliest Road), Fallon, Tahoe, Sacramento, San Francisco; about 3914 miles, 122,517 ft climbing, end Aug 20. (2022, source: 2022 Route Plan)
+- Housing tactics that worked: Warm Showers hosts (most nights), friends-of-friends, churches, mayors and library staff, MIT alumni club contacts (Sam Ford in Kentucky connected two hosts and the Bowling Green LF). Start Warm Showers requests early; split hosts if needed, but avoid splitting dinners. (2022, source: 2022 Route Plan; reach-out emails)
+- Route lessons: use terrain view before trusting Google Maps (busy highways, one-way streets, train yards); wind and heat matter as much as distance; Day 1 at 59 miles with a late start finished at 9 pm; frequent thunderstorms forced car shuttles; book campgrounds early (Shenandoah, Moab full); gravel bikes for Capitol Reef; plan water stops with the car in the desert; build in 1-2 buffer days in DC. (2022, source: 2022 Route Plan; 2022_04_19 Meeting)
+- Learning festivals 2022: DYS Westborough MA (May 13), DC youth facility (May 31), Louisa County VA (Jun 3, about 20 students), Hazard KY (Jun 15-16), Bowling Green KY (Jun 22), St. Louis (Jun 30, public middle-school summer program), Newton KS (Jul 11), Lamar CO (Jul 16, 4 kids), Fallon NV (Aug 14). Denver cancelled (host coordination) and Ely cancelled after a team COVID case. Team decided about 50 students is the sweet spot. (2022, source: 2022 Route Plan; LF Locations)
+- Workshops taught: 3D printing, solar cell (berry dye-sensitized), leaf chromatography, circuits/electronics, physics of music (replaced philosophy paradoxes due to materials); all need a projector; solar cell and chromatography do not run simultaneously; only the solar workshop needs a formal safety plan. (2022, source: Final Workshops Details; MIT Spokes Safety Plan 2022; 2022_04_19 Meeting)
+- Youth-facility workshops (DYS/CES, DC Correctional) came via Lee Perlman of the Educational Justice Institute; strict rules (photo ID, no phones/staples, no identifying photos); CES paid a $506 sponsorship. (2022, source: DYS Safety Orientation Meeting; Activities Sponsor Agreement 2022)
+- Alumni and hosts outreach: MIT alumni clubs by state (Infinite Connection) gave leads but little money; email templates for departments, alumni, teachers, businesses, churches, Warm Showers are in the folder. (2022, source: MIT Alumni Clubs Outreach; 2022 Reaching Out Email Examples)
+- COVID in 2022: team tested with MIT-supplied rapid tests (under 100), masks at LFs; two members got COVID (May and Aug) and it cost two LFs and a rest-day shuffle; send test kits ahead. (2022, source: 2022 Covid Safety; 2022 Route Plan)
+- Team practice: stand-up at every meeting, daily dinner meeting and weekly meal-planning meeting on the road, rotating driver duties (set up site, water, laundry, ice), groups of 2-3 riders with last two together. (2022, source: 2022_5_31 Meeting; 06_08_22 Meeting Minutes)
+- Food: cheap whole-food pantry, short-order cooking in pairs, about 60 g carbs per hour riding, shared Dietary Goals form collected early; Costco card and bulk orders. (2022, source: Spokes Food Essentials; Meal Schedule; 2022_03_15 Meeting)
+- Timeline: first meeting Dec 8 2021, donation portal live Dec 18, grants signed up Jan 2022, bikes ordered Mar, Edgerton Showcase Apr 13, bike workshop Apr 23, packing May 22, departure May 28-30. (2022, source: Meeting Minutes series)
+- Post-trip proposal: riders who sell their bikes donate proceeds to Spokes; a follow-up report is owed to SAEF for the last $400. (2022, source: 2022_05_03 Meeting; Fundraising Tracking Spreadsheet)
+
+## Highlights (from Drive 2022)
+
+# Highlights part 2: Finance_Budget and Social Media/Blog/Website (Spokes 2022)
+
+- 2022 confirmed funding in the account was about $16,775: Edgerton Center $4,000, ESG $7,500, MIT course/department gifts of $500 each (Aero, DMSE, EAPS, GEL, Philosophy, CMS) plus CEE $1,000, Costco $500 gift card, individual donations $775, and Baker Foundation $2,000 as reimbursement only. (2022, source: Spokes 2022 TBP Budget)
+- The MIT SPOKES account (cost object 2530032) had net total $16,902 on 2022-04-11 after $192.9k revenue and $176.0k expenses since 2014; the transaction report shows every historical donor (TI $4k+$2k in 2020, Costco $500, Made Money grant $5,000 in 2020, Fidelity Charitable $1,500 in 2022, a $1,000 individual gift). (2022, source: 2022-04-11 spokes_transaction_report)
+- The 2022 funding-request list is a ready target list: New Earth Foundation $3k, Saxena Family Foundation $2k, Mad Money $2k, Arthur C Smith $2k, STEM Action Grant $1k, OME Innovation Fund / PKG / SHASS $500 each, Alpkit $3k, MIT Coop $1.5k, MathWorks $2k, Kars for Kids $2k, Cruise Industry Charitable Foundation $3k, Formlabs $2k, Lightforce $5k, Texas Instruments $5k, Sprouts $2k, and $500 asks to MIT Clubs (DC, Kansas, Colorado, Nevada, N. California). (2022, source: Spokes 2022 TBP Budget)
+- Gear total was about $34.4k for 7 riders; 7 Giant Revolt 2 bikes at $1,400 ($9,800) were bought on an MIT PO from Landry's Bicycles Boston (invoice 2022-03-30, $12,419.25 incl. accessories, 15% accessory discount, $0 tax because MIT is tax exempt). (2022, source: Final Budget / Landry's invoice)
+- Budget lessons recorded in the sheet: buy better front lights (the MSW Tigermoth was dim with bad battery), better frame pumps (the MSW ones broke), Sprintech mirrors were great, and expect to replace tires near Colorado. Tubeless tires (plugs, no tubes) meant only about 10 flats across 6 bikes in 80 days. (2022, source: Final Budget; MIT News Q&A)
+- Car rental was the budget shock: $6,103 estimate vs about $3,500 in prior years; the logged estimate was $8,634 (Full-size SUV, Ford Explorer) with Edgerton subsidizing, plus $1,249 for four new tires after a flat on the AWD rental (to be disputed with Budget). Gas was budgeted $1,800 but logged as many $40-80 fill-ups. (2022, source: Final Budget; Receipts Ledger)
+- Food was budgeted at about $70/day x 75 days = $5,250, bought mostly at Walmart/Kroger/Costco on the Maxwell travel card; the Costco $500 gift card covered groceries in early June. (2022, source: Final Budget; Receipts Ledger)
+- Purchasing process that worked: log every purchase in the Receipt Form right away (with name), file photos as `[$amount] [initials] description` in a per-person or per-card folder, tag [TBP]/[Baker]/[OME] for the grant paying, and use MIT PO / ProCard / travel card / personal-card-then-reimburse paths. Many entries were later labelled "DO NOT KNOW" for buyer, so log immediately. (2022, source: Receipts Ledger)
+- Baker Foundation reimbursements covered helmets, lights, locks, floor pump, tire levers/sealant, and a $605 bike toolbox (Amazon PO). (2022, source: Baker Foundation receipts)
+- Educational supplies for 500 kids: Educational Supply Budget $2,791.39 (3D printing $230, leaf chromatography $234, solar cell $373 after MIT Nano/UGTL paid ITO slides ($2,430), chemicals etc., philosophy paradox $108, circuits $1,846). MIT Nano and UGTL donated chemicals and ITO glass; ask labs before buying. (2022, source: Final Budget)
+- Workshop line-up in 2022: solar cell (berry juice), color and chromatography, 3D printing, physics of music, circuitry/electronics, philosophy paradox; taught in 9 places: Westborough MA (DYS), Washington DC (DYS), Louisa County VA, Hazard KY (2 days), Bowling Green KY, St. Louis MO, Newton KS, Lamar CO, Fallon NV. Ice cream after every LF became a tradition. (2022, source: Spokes MIT News Article)
+- New 2022 LF host type: two juvenile-justice (DYS) facilities in Massachusetts and DC, arranged through TEJI/Lee Perlman and CES; first LF was Fri May 13, 2022 with solar cell (winning cell 0.47 V) and 3D printing. (2022, source: DYS Blog Post)
+- 2022 numbers for marketing: 3000 miles, 75 days, 7 MIT students (website said 80 days and 3,500 miles); crowdfunding goal on the website was $15,000 on top of corporate sponsorships. Donation link: giving.mit.edu/search/node/spokes with QR on poster. (2022, source: Website Info; poster)
+- Route facts: hottest day 105F in Lakin KS (stopped biking and shuttled in the car); coldest was hail on Loveland Pass (11,900 ft); longest ride 113 miles Austin NV to Fallon NV on US-50; an accidentally deleted spreadsheet row (July 7) caused an unplanned rest day in Farlington KS. (2022, source: Spokes MIT News Article)
+- Hosts to thank/reuse: Mayor Jerry Fultz of Wayland KY, Challenger Learning Center of Kentucky (Hazard; hosted four Spokes groups by 2018), Newton Public Library KS, Louisa County Library VA; Warm Showers hosts throughout. (2022, source: MIT News Q&A; pamphlet)
+- Social/web setup: site is on Wix (mitspokes.com); create "managed writers" for blog attribution; Instagram @mitspokes, Facebook MIT Spokes; the black topo-map template and sponsor thank-you posts (Edgerton Center, ESG) are saved. Mailing lists: spokes-current owns spokes-alum, spokes-interest, spokes-updates; each year add the new team to spokes-current. (2022, source: Website Info; Mailing Lists; images)
+- Day-1/2 lesson: a bike rack incompatible with the rental car cost hours and a replacement rack ($263 logged) - test the bike rack on the actual rental car before departure. (2022, source: Blog 6_3 Franklin; Receipts Ledger)
+- Post-trip: Keaten did not ride but helped plan and filed receipts while the team was on the road (the ProCard was in Keaten's name); Sticker Mule stickers were ordered 2022-10-12 ($125) and 35 thank-you cards were printed for $28. (2022, source: MIT News Q&A; Receipts Ledger)
+
+## Documents (165)
+
+- ★ [2021_12_08 First Meeting](../../docs/2022/meeting-minutes/2022_2021-12-08-first-meeting.md) — First 2022 team meeting: $25K fundraising goal, MIT donation portal, support-van idea, learning-festival basics, who does what.
+- ★ [2021_12_18 General Meeting](../../docs/2022/meeting-minutes/2022_2021-12-18-general-meeting.md) — Dec 2021 meeting: donation link live, department email assignments, grants list (TBP, TI), bike choice (Giant Revolt 2 at Landrys, $1350), division of work into
+- ★ [2022 Reaching Out Email Examples](../../docs/2022/fundraising/2022_2022-reaching-out-email-examples.md) — Template emails for departments, companies, alumni groups, teachers, local businesses and news orgs, with subject lines.
+- ★ [2022 Route Plan](../../docs/2022/route-and-learning-festivals/2022_2022-route-plan.md) — Day-by-day 2022 route (DC May 30 start to summer end) with mileage, elevation, stay, host address and rider notes, plus tabs for needed hosts, campground reserv
+- ★ [2022 Spokes Fundraising Tracking Spreadsheet](../../docs/2022/fundraising/2022_2022-spokes-fundraising-tracking-spreadsheet.md) — The master 2022 fundraising tracker: confirmed funds by source, grants applied for (asked vs actual, deadlines, previous-year amounts), company asks, MIT depart
+- ★ [2022 Spokes Fundraising Tracking Spreadsheet](../../docs/master-guide/sub-guides/linked/2022_fundraising-tracking.md) — COMPLETE 2022 fundraising tracker (all tabs, all rows): confirmed funding, grants, companies, MIT departments with contacts and outcomes, budget estimates.
+- ★ [2022-04-11 Spokes transaction report (MIT account 2530032)](../../docs/2022/finance-budget/2022_mit-spokes-account-transaction-report-2022-04-11.md) — MIT SAFO transaction list for the SPOKES cost object 2530032 covering April 2014 to April 2022: every donation, department gift and expense. Shows historical fu
+- ★ [2022_01_19 Meeting with Sandra](../../docs/2022/meeting-minutes/2022_2022-01-19-meeting-with-sandra.md) — Key Edgerton admin meeting: pro-card vs travel card rules, Buy-to-Pay/Coupa, PO limits, sponsorship payments via MIT, car lease vs rental, cost object 2530032, 
+- ★ [2022_02_08 Meeting](../../docs/2022/meeting-minutes/2022_2022-02-08-meeting.md) — Feb 8 2022: sponsorship tiers, Landrys 15% discount, start-date availability, route/vehicle plans, fundraiser ideas. (website login password redacted)
+- ★ [2022_02_10 Baker Foundation Meeting](../../docs/2022/meeting-minutes/2022_2022-02-10-baker-foundation-meeting.md) — Baker Foundation meeting: funds MIT-community events, $500-1500 (max $2000), reimbursable bike-repair/safety gear list.
+- ★ [2022_02_15 Meeting](../../docs/2022/meeting-minutes/2022_2022-02-15-meeting.md) — Feb 15 2022: Lightforce sponsorship prep, Baker bike workshop plan (Apr 23), TBP grant, Landrys quote $12,300, actionables.
+- ★ [2022_03_01 - Meeting with Peggy](../../docs/2022/meeting-minutes/2022_2022-03-01-meeting-with-peggy.md) — Edgerton development officer advice: sponsor rules (no MIT name in ads, sponsorship agreement), alumni clubs, local bike shops, crowdfunding (~$5000), goal ~30k
+- ★ [2022_03_08 Meeting](../../docs/2022/meeting-minutes/2022_2022-03-08-meeting.md) — Mar 8 2022: MIT Club of DC event, team shirts, glove sizes, camping gear, COVID testing, Lightforce pledged $5000, Costco gift card.
+- ★ [2022_03_15 Meeting](../../docs/2022/meeting-minutes/2022_2022-03-15-meeting.md) — Mar 15 2022: LF status (Carson City, Hazard, Ely, Newton yes), personal-gear reimbursement rules, nutrition plan (60 g carb/hr).
+- ★ [2022_03_29 Meeting](../../docs/2022/meeting-minutes/2022_2022-03-29-meeting.md) — Mar 29 2022: camping power options, bike repair workshop logistics, LF confirmation status (5/10), COVID tests, Edgerton Showcase.
+- ★ [2022_04_04 Meeting with DC Correctional](../../docs/2022/meeting-minutes/2022_2022-04-04-meeting-with-dc-correctional.md) — DC Correctional (youth offender facility) meeting agenda and rules; May 31 learning festival plan.
+- ★ [2022_04_12 Meeting](../../docs/2022/meeting-minutes/2022_2022-04-12-meeting.md) — Apr 12 2022: bike workshop RSVPs, saddle advice, shirt quotes, OME grant ($500), MechE $750, rental minivan decision, Bowling Green LF Q&A.
+- ★ [2022_04_19 Meeting](../../docs/2022/meeting-minutes/2022_2022-04-19-meeting.md) — Apr 2022: minivan rental dates, return logistics, LF structure, campground availability problems (Shenandoah, Moab), workshop material ordering.
+- ★ [2022_04_26 Meeting](../../docs/2022/meeting-minutes/2022_2022-04-26-meeting.md) — Apr 26 2022: personal/group camping gear inventory, MIT travel registry, DYS Westborough LF plan, projector/whiteboard needs.
+- ★ [2022_05_03 Meeting](../../docs/2022/meeting-minutes/2022_2022-05-03-meeting.md) — May 3 2022: DYS May 13 plan, route changes (Ely, Lamar), 8-9 confirmed LFs, TBP receipts, money reminders.
+- ★ [2022_05_10 Meeting](../../docs/2022/meeting-minutes/2022_2022-05-10-meeting.md) — May 10 2022: DYS Westborough logistics, DC departure plans, SAEF $4000 news, Lamar/Ely housing, post-trip plans.
+- ★ [2022_3_15 Meeting with Tom from Hazard KY](../../docs/2022/meeting-minutes/2022_2022-3-15-meeting-with-tom-from-hazard-ky.md) — Call with Tom (Challenger Center, Hazard KY): proposed 2-day schedule and workshop rotation, other Challenger centers.
+- ★ [2022_5_25 Meeting Minutes](../../docs/2022/meeting-minutes/2022_2022-5-25-meeting-minutes.md) — May 25 2022: departure plans, pre-trip to-do, driving schedule and insurance restriction.
+- ★ [2022_5_31 Meeting](../../docs/2022/meeting-minutes/2022_2022-5-31-meeting.md) — Trip-start expectations: communication, driver roles, group riding, cooking/cleaning rules.
+- ★ [2023 2nd revised- Landry_s request gear](../../docs/2022/gear/2022_2023-2nd-revised-landry-s-request-gear.md) — Gear request list sent to Landrys bike shop.
+- ★ [Activities Sponsor Agreement 2022](../../docs/2022/fundraising/sponsorships/2022_activities-sponsor-agreement-2022.md) — MIT sponsorship agreement template used for DYS ($506, Tier 1).
+- ★ [Baker Foundation](../../docs/2022/fundraising/grants/baker-foundation/2022_baker-foundation.md) — Baker Foundation grant material (funded $2000 request, actual $1758.52) tied to the MIT bike repair workshop.
+- ★ [Baker Foundation Events](../../docs/2022/fundraising/grants/baker-foundation/2022_baker-foundation-events.md) — Baker Foundation grant material (funded $2000 request, actual $1758.52) tied to the MIT bike repair workshop.
+- ★ [BakerFoundationFinal](../../docs/2022/fundraising/grants/baker-foundation/2022_bakerfoundationfinal.md) — Baker Foundation grant material (funded $2000 request, actual $1758.52) tied to the MIT bike repair workshop.
+- ★ [Bike Safety](../../docs/2022/fundraising/bike-workshop/2022_bike-safety.md) — Bike safety/repair workshop run for Baker Foundation funding (Apr 23 2022).
+- ★ [Bike Safety Workshop Details](../../docs/2022/fundraising/bike-workshop/2022_bike-safety-workshop-details.md) — Bike safety/repair workshop run for Baker Foundation funding (Apr 23 2022).
+- ★ [Bike Safety and Repair Workshop RSVP (Responses)](../../docs/2022/fundraising/bike-workshop/2022_bike-safety-and-repair-workshop-rsvp-responses.md) — Bike safety/repair workshop run for Baker Foundation funding (Apr 23 2022).
+- ★ [Bike Workshop Proposal](../../docs/2022/fundraising/bike-workshop/2022_bike-workshop-proposal.md) — Bike safety/repair workshop run for Baker Foundation funding (Apr 23 2022).
+- ★ [Budget for Baker Workshop](../../docs/2022/fundraising/bike-workshop/2022_budget-for-baker-workshop.md) — Bike safety/repair workshop run for Baker Foundation funding (Apr 23 2022).
+- ★ [Copy of 2020 Route](../../docs/2022/route-and-learning-festivals/2022_copy-of-2020-route.md) — 2020 planned route (cancelled year) with notable places and camping.
+- ★ [DYS Safety Orientation Meeting](../../docs/2022/meeting-minutes/2022_dys-safety-orientation-meeting.md) — DYS/CES safety orientation notes for teaching in a youth treatment facility (rules, language, what not to bring).
+- ★ [Formlabs in-kind sponsorship](../../docs/2022/fundraising/sponsorships/2022_formlabs-in-kind-sponsorship.md) — Formlabs in-kind sponsorship meeting notes.
+- ★ [Gear Masterlist](../../docs/2022/gear/2022_gear-masterlist.md) — Communal gear master list with owners and status.
+- ★ [Learning Festival Budget](../../docs/2022/finance-budget/2022_learning-festival-budget.md) — Early draft of the per-workshop supply budget (3D printing, leaf chromatography, solar cell, philosophy paradox, circuits, circuits & music/paper speakers) for 
+- ★ [Learning Festival Locations](../../docs/2022/route-and-learning-festivals/2022_learning-festival-locations.md) — Directory of past LF hosts (2019 notes, 2022 status) with addresses, contacts, phones, emails, websites, lodging used, priority and typical schedules. Primary c
+- ★ [Learning Festival Planning](../../docs/2022/route-and-learning-festivals/2022_learning-festival-planning.md) — 2022 LF planning doc with status per host, session/rotation schedule, and three reusable email templates (past location, new location, follow-up with workshops/
+- ★ [MHandy Executed_mitspokes_lightforce_sponsor_agreement](../../docs/2022/fundraising/sponsorships/2022_mhandy-executed-mitspokes-lightforce-sponsor-agreement.md) — Executed Lightforce Orthodontics sponsorship agreement ($5000, Mar 2022). Bank wire details redacted.
+- ★ [MIT Alumni Clubs Outreach](../../docs/2022/fundraising/2022_mit-alumni-clubs-outreach.md) — Outreach email to MIT alumni clubs by state, with responses (Utah, Kentucky).
+- ★ [MIT COOP grant](../../docs/2022/fundraising/grants/2022_mit-coop-grant.md) — MIT COOP grant text ($1500 received).
+- ★ [Master Application Document](../../docs/2022/fundraising/2022_master-application-document.md) — Reusable master grant application answers: summary, need, outcomes, funders, line-item budget ($29,293), publicity.
+- ★ [OME Innovation Fund - MIT Spokes 2022](../../docs/2022/fundraising/grants/2022_ome-innovation-fund-mit-spokes-2022.md) — OME Innovation Fund application ($500 received).
+- ★ [Personal Gear List](../../docs/2022/gear/2022_personal-gear-list.md) — Personal bike gear list and purchasing process.
+- ★ [Read Me (instructions)](../../docs/2022/fundraising/grants/tbp-application/2022_read-me-instructions.md) — Tau Beta Pi (TBP) fellowship application materials ($2000 received).
+- ★ [Receipts Ledger 2022 (Receipt Form + receipt photos + OME + Baker receipts)](../../docs/2022/finance-budget/2022_receipts-ledger.md) — One consolidated ledger of every 2022 expense: the Receipt Form log (all rows), how MIT PO / ProCard / travel card / personal-card purchasing and reimbursement 
+- ★ [Requested Gear from Landry_s](../../docs/2022/gear/2022_requested-gear-from-landry-s.md) — Gear request list sent to Landrys bike shop.
+- ★ [Required Gear](../../docs/2022/gear/2022_required-gear.md) — 2022 bicycle and non-bike gear shopping list with models and prices (Giant Revolt 2 from Landry's, Trek/Bontrager items requested from Trek, Saris rack, locks, 
+- ★ [STEM Workshop Descriptions](../../docs/2022/route-and-learning-festivals/2022_stem-workshop-descriptions.md) — Descriptions of the 2022 STEM workshops.
+- ★ [Spokes 2022 Final Budget](../../docs/2022/finance-budget/2022_spokes-2022-final-budget.md) — 2022 master budget (7 participants, total gear cost about $34.4k) with all line items, Landry's 15% discount math, travel/food/consumables and a full Educationa
+- ★ [Spokes 2022 TBP Budget](../../docs/2022/finance-budget/2022_spokes-2022-tbp-budget.md) — Early-2022 budget version used for the TBP (Tau Beta Pi) grant application, plus the key tab of Confirmed Funding Sources (about $16,775 in account) and the lis
+- ★ [Spokes Alumni 2022](../../docs/2017/past-years/2022_spokes-alumni-2022.md) — Alumni contact list by Spokes year 2013-2024 (name, email, school, location, willing to mentor/help). Maintained for the spokes-alumni@mit.edu list.
+- ★ [Spokes Food Essentials_ Sourcing](../../docs/2022/food-health-safety/2022_spokes-food-essentials-sourcing.md) — Grocery sourcing list.
+- ★ [Spokes MIT News Article (Q&A)](../../docs/2022/social-media-blog-website-media/2022_spokes-mit-news-article-qa.md) — Post-trip Q&A for an MIT News article (2022): which 9 learning festivals were taught, workshop descriptions, hottest/coldest/longest days, ~10 flats thanks to t
+- ★ [Spokes Meal Schedule and Options_ Preparation](../../docs/2022/food-health-safety/2022_spokes-meal-schedule-and-options-preparation.md) — Meal plan options.
+- ★ [Spokes Onboarding FAQ](../../docs/2022/onboarding-2022/2022_spokes-onboarding-faq.md) — 2022 onboarding FAQ: task split, packing, what is provided vs personal cost, a typical cycling day, ~\$30k budget, bike-buying advice (Giant Revolt 2 from Landr
+- ★ [Sponsorship Levels](../../docs/2022/fundraising/sponsorships/2022_sponsorship-levels.md) — Four sponsorship tiers and benefits.
+- ★ [TBP Grant Budget Proposal_](../../docs/2022/fundraising/grants/tbp-application/2022_tbp-grant-budget-proposal.md) — Tau Beta Pi (TBP) fellowship application materials ($2000 received).
+- ★ [TBP Reccomendation Letter Template_](../../docs/2022/fundraising/grants/2022_tbp-reccomendation-letter-template.md) — Tau Beta Pi (TBP) fellowship application materials ($2000 received).
+- ★ [TBP Spokes Application](../../docs/2022/fundraising/grants/tbp-application/2022_tbp-spokes-application.md) — Tau Beta Pi (TBP) fellowship application materials ($2000 received).
+- ★ [TBP Spokes Intro_](../../docs/2022/fundraising/grants/tbp-application/2022_tbp-spokes-intro.md) — Tau Beta Pi (TBP) fellowship application materials ($2000 received).
+- ★ [TBP Statement _ Qualifications](../../docs/2022/fundraising/grants/tbp-application/2022_tbp-statement-qualifications.md) — Tau Beta Pi (TBP) fellowship application materials ($2000 received).
+- ★ [Website Info](../../docs/2022/social-media-blog-website-media/2022_website-info.md) — Wix website setup notes (blog author attribution steps), the About Us / Who We Are / Why Bike / We Need Your Help copy, and all 7 rider bios for 2022. Password 
+- ★ [bike research](../../docs/2022/gear/2022_bike-research.md) — Bike model comparison; bought Giant Revolt 2.
+- ★ [reach-out emails](../../docs/2022/route-and-learning-festivals/2022_reach-out-emails.md) — Email templates for churches and Warm Showers hosts.
+- [06_08_22 Meeting Minutes](../../docs/2022/meeting-minutes/2022_06-08-22-meeting-minutes.md) — Week-2 on-road team meeting: routines, hand signals, blog posting, concussion/COVID notes.
+- [2021-12-22_spokes_transaction_list](../../docs/2022/fundraising/2022_2021-12-22-spokes-transaction-list.md) — MIT Edgerton transaction list for the Spokes account (Dec 2021), shows opening balance and prior spending.
+- [2022_01_11 General Meeting](../../docs/2022/meeting-minutes/2022_2022-01-11-general-meeting.md) — Jan 2022: rider heights for bike ordering, grants sign-up (4 each), 8th member decision.
+- [2022_01_16 General Meeting](../../docs/2022/meeting-minutes/2022_2022-01-16-general-meeting.md) — Jan 16 2022: sub-team assignments, Landrys bike sizing, mission statement and rec-letter to-dos.
+- [2022_01_24 General Meeting](../../docs/2022/meeting-minutes/2022_2022-01-24-general-meeting.md) — Jan 24 2022: stand-up updates, full brainstorm of workshop ideas with leads, commit to 7 members, 4 workshop themes.
+- [2022_02_01 meeting](../../docs/2022/meeting-minutes/2022_2022-02-01-meeting.md) — Feb 1 2022: second travel card, workshop options incl. Formlabs 3D printing, funding status ($4000 Edgerton, $500 Philosophy, $7500 ESG).
+- [2022_03_01 Meeting](../../docs/2022/meeting-minutes/2022_2022-03-01-meeting.md) — Mar 1 2022: Lightforce update, Edgerton showcase Apr 13, sponsors cannot use MIT name, MIT students Instagram takeover.
+- [2022_03_18 Liquid Instruments Meeting](../../docs/2022/meeting-minutes/2022_2022-03-18-liquid-instruments-meeting.md) — Meeting with Liquid Instruments (Moku:Go) about a wall-charger/power workshop and possible demo.
+- [2022_04_05 Meeting](../../docs/2022/meeting-minutes/2022_2022-04-05-meeting.md) — Apr 5 2022: gear purchases, Stanford Spokes partnership question, workshop leads.
+- [2022_04_12 OME Innovation Fund Meeting_](../../docs/2022/meeting-minutes/2022_2022-04-12-ome-innovation-fund-meeting.md) — OME Innovation Fund meeting: likely approval, documentation and receipts required, logo on website/shirt.
+- [2022_05_18 Meeting](../../docs/2022/meeting-minutes/2022_2022-05-18-meeting.md) — May 18 2022: gear check, DYS LF lessons, packing day plan, DC to-do.
+- [2022_05_19 Louisa County Meeting](../../docs/2022/meeting-minutes/2022_2022-05-19-louisa-county-meeting.md) — Louisa County LF day-of logistics, housing and food notes, schedule.
+- [3dp High School Workshop Curriculum](../../docs/2022/route-and-learning-festivals/workshops/3d-printing/2022_3dp-high-school-workshop-curriculum.md) — Workshop material.
+- [6_03 Louisa County Schedule](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_6-03-louisa-county-schedule.md) — LF day schedule for a specific host.
+- [6_15-16 Challenger Center at Hazard Kentucky](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_6-15-16-challenger-center-at-hazard-kentucky.md) — LF day schedule for a specific host.
+- [6_22 Bowling Green Learning Festival](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_6-22-bowling-green-learning-festival.md) — LF day schedule for a specific host.
+- [6_30 St. Louis MO Schedule](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_6-30-st-louis-mo-schedule.md) — LF day schedule for a specific host.
+- [7_11 Newton Public Library in Kansas Schedule](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_7-11-newton-public-library-in-kansas-schedule.md) — LF day schedule for a specific host.
+- [8019_fitting-a-helmet](../../docs/2022/fundraising/safety-flyers/2022_8019-fitting-a-helmet.md) — Bike safety handouts used at the workshop.
+- [8_09 White Pine County Library at Ely NV Schedule](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_8-09-white-pine-county-library-at-ely-nv-schedule.md) — LF day schedule for a specific host.
+- [8_14 Fallon Youth Club in Fallon, NV Schedule](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_8-14-fallon-youth-club-in-fallon-nv-schedule.md) — LF day schedule for a specific host.
+- [Admissions Email Template](../../docs/2022/fundraising/2022_admissions-email-template.md) — Email to MIT Admissions asking for funding and for admitted-student housing leads.
+- [Akamai](../../docs/2022/fundraising/grants/2022_akamai.md) — Akamai Foundation application text (asked $5000, pending).
+- [Alpkit Foundation Application](../../docs/2022/fundraising/grants/2022_alpkit-foundation-application.md) — Alpkit Foundation application (rejected).
+- [Awesome Foundation Chapters](../../docs/2022/fundraising/grants/awesome-foundation/2022_awesome-foundation-chapters.md) — Awesome Foundation chapter applications ($1000 grants).
+- [Blog draft: DYS Blog Post (2022-05-18)](../../docs/2022/social-media-blog-website-media/2022_blog-draft-dys-learning-festival.md) — Simone's blog on the first 2022 Learning Festival at a Massachusetts DYS (juvenile justice) facility, arranged via TEJI/CES; solar cell and 3D printing workshop
+- [Blog draft: Day Two (6/3) by Franklin](../../docs/2022/social-media-blog-website-media/2022_blog-draft-day-two-franklin.md) — Franklin's blog on day two: bike rack trouble, highway interchange, tortilla-sardine lunch staples; useful tone and day-1/2 lessons.
+- [Breadboarding Worksheet](../../docs/2022/route-and-learning-festivals/workshops/electronics/2022_breadboarding-worksheet.md) — Workshop material.
+- [Costco](../../docs/2022/fundraising/grants/2022_costco.md) — Costco donation request (resulted in a $500 gift card).
+- [Cycling Nutrition and Flexible Camping Food](../../docs/2022/food-health-safety/2022_cycling-nutrition-and-flexible-camping-food.md) — Nutrition resources.
+- [DYS Learning Festival Workshop Materials](../../docs/2022/route-and-learning-festivals/workshops/dys/2022_dys-learning-festival-workshop-materials.md) — Workshop material.
+- [DYS Workshop Descriptions and Survey](../../docs/2022/route-and-learning-festivals/workshops/dys/2022_dys-workshop-descriptions-and-survey.md) — Workshop material.
+- [EA_Graphic_ABC_Quick_Check-combined](../../docs/2022/fundraising/safety-flyers/2022_ea-graphic-abc-quick-check-combined.md) — Bike safety handouts used at the workshop.
+- [Electronics Workshop](../../docs/2022/route-and-learning-festivals/workshops/electronics/2022_electronics-workshop.md) — Workshop material.
+- [FINAL solar cell workshop SLIDES](../../docs/2022/route-and-learning-festivals/workshops/solar-cell/2022_final-solar-cell-workshop-slides.md) — Workshop material.
+- [Final Workshops Details](../../docs/2022/route-and-learning-festivals/workshops/general/2022_final-workshops-details.md) — Workshop material.
+- [Lee Perlman Spokes Rec Letter](../../docs/2022/fundraising/2022_lee-perlman-spokes-rec-letter.md) — Recommendation letter for the TBP grant from the Educational Justice Institute co-director.
+- [MIT Spokes 2022 pamphlet](../../docs/2022/social-media-blog-website-media/2022_pamphlet-mit-spokes-2022.md) — Text of the 2022 sponsor/host pamphlet: about, 4 workshop tracks, planned LF cities, team, testimonials (Louisa County library, Hazard KY Challenger Center, New
+- [MIT Spokes Safety Plan 2022](../../docs/2022/route-and-learning-festivals/workshops/general/2022_mit-spokes-safety-plan-2022.md) — Workshop material.
+- [MechE Example Workshop](../../docs/2022/fundraising/2022_meche-example-workshop.md) — Example workshop deck made for MechE department donors.
+- [Nature-inspired Solar Cells](../../docs/2022/route-and-learning-festivals/workshops/solar-cell/2022_nature-inspired-solar-cells.md) — Workshop material.
+- [PKG Grant_](../../docs/2022/fundraising/grants/2022_pkg-grant.md) — PKG fellowship application, TEJI partnership (rejected).
+- [Physics of Music Workshop](../../docs/2022/route-and-learning-festivals/workshops/physics-of-music/2022_physics-of-music-workshop.md) — Workshop material.
+- [Print Outs](../../docs/2022/route-and-learning-festivals/workshops/chromatography-and-color/2022_print-outs.md) — Workshop material.
+- [Reflections](../../docs/2022/route-and-learning-festivals/workshops/electronics/2022_reflections.md) — Workshop material.
+- [SHASS Fund - MIT SPOKES 2022](../../docs/2022/fundraising/grants/2022_shass-fund-mit-spokes-2022.md) — SHASS Fund application text.
+- [Sample Personal Packing List](../../docs/2022/gear/2022_sample-personal-packing-list.md) — Sample personal packing list.
+- [Scheduled Bike Maintenance](../../docs/2022/gear/2022_scheduled-bike-maintenance.md) — Bike maintenance schedule.
+- [Society For Science Grant](../../docs/2022/fundraising/grants/2022_society-for-science-grant.md) — STEM Action Grant application (closes May 17 2022).
+- [Solar Cell Workshop Instructions](../../docs/2022/route-and-learning-festivals/workshops/solar-cell/2022_solar-cell-workshop-instructions.md) — Workshop material.
+- [Solar Cell Workshop Safety Plan](../../docs/2022/route-and-learning-festivals/workshops/general/2022_solar-cell-workshop-safety-plan.md) — Workshop material.
+- [Spokes 2022 Blog Archive](../../docs/2022/blog/2022_spokes-2022-blog-archive.md) — List of all 49 Spokes 2022 blog posts on mitspokes.wixsite.com/2022 with Wayback Machine archive links (captured 2024-02-29). The post titles trace the 2022 rou
+- [Spokes 2022 Cover Letter](../../docs/2022/fundraising/2022_spokes-2022-cover-letter.md) — 2022 cover letter: mission, history, safety, tax ID and Edgerton address used with grant apps.
+- [Spokes 2022 Covid Safety](../../docs/2022/food-health-safety/2022_spokes-2022-covid-safety.md) — 2022 COVID protocol.
+- [Spokes 2022 Statement of Purpose](../../docs/2022/fundraising/2022_spokes-2022-statement-of-purpose.md) — Mission/statement of purpose variants and a Course 2 funding request.
+- [Spokes Alum Outreach](../../docs/2022/fundraising/2022_spokes-alum-outreach.md) — Email to past Spokes participants asking for donations and host leads.
+- [Spokes Chromatography Workshop](../../docs/2022/route-and-learning-festivals/workshops/chromatography-and-color/2022_spokes-chromatography-workshop.md) — Workshop material.
+- [Spokes Dietary Goals (Responses)](../../docs/2022/food-health-safety/2022_spokes-dietary-goals-responses.md) — Team dietary restrictions survey.
+- [Spokes Learning Festival Feedback 6_15 Challenger (Responses)](../../docs/2022/route-and-learning-festivals/workshops/feedback/2022_spokes-learning-festival-feedback-6-15-challenger-responses.md) — Student feedback responses.
+- [Spokes Learning Festival Feedback 6_3 Louisa County (Responses)](../../docs/2022/route-and-learning-festivals/workshops/feedback/2022_spokes-learning-festival-feedback-6-3-louisa-county-responses.md) — Student feedback responses.
+- [Spokes Learning Festival Feedback 6_30 St. Louis (Responses)](../../docs/2022/route-and-learning-festivals/workshops/feedback/2022_spokes-learning-festival-feedback-6-30-st-louis-responses.md) — Student feedback responses.
+- [Spokes MIT Mailing Lists as of 2022](../../docs/2022/social-media-blog-website-media/2022_spokes-mit-mailing-lists.md) — Explains the MIT WebMoira mailing list structure (spokes-current owns spokes-alum, spokes-interest, spokes-updates etc.) and that each year's team should add it
+- [TI 2022 app](../../docs/2022/fundraising/grants/2022_ti-2022-app.md) — Texas Instruments 2022 application confirmation.
+- [Template Schedule](../../docs/2022/route-and-learning-festivals/workshops/learning-festival-schedules/2022_template-schedule.md) — LF day schedule for a specific host.
+- [Thank-you card and 2022 poster](../../docs/2022/social-media-blog-website-media/2022_thank-you-card-and-poster.md) — Text of the 2022 thank-you card for donors/hosts and the 2022 poster (3000 miles, 75 days, 7 MIT students; links, QR to giving.mit.edu/search/node/spokes). Imag
+- [The Awesome Foundation](../../docs/2022/fundraising/grants/awesome-foundation/2022_the-awesome-foundation.md) — Awesome Foundation chapter applications ($1000 grants).
+- [The Awesome Foundation - NOVA](../../docs/2022/fundraising/grants/awesome-foundation/2022_the-awesome-foundation-nova.md) — Awesome Foundation chapter applications ($1000 grants).
+- [The COOP Public Service Grants HarvardMIT Student Group Application 8](../../docs/2022/fundraising/grants/2022_the-coop-public-service-grants-harvardmit-student-group-application-8.md) — COOP Public Service Grants application form.
+- [To Do List First Days of Spokes](../../docs/2022/route-and-learning-festivals/2022_to-do-list-first-days-of-spokes.md) — Pre-departure to-do for May 28-30.
+- [Workshop Flyer](../../docs/2022/route-and-learning-festivals/workshops/workshop-fliers/2022_workshop-flyer.md) — Workshop material.
+- [Workshop Ideas](../../docs/2022/route-and-learning-festivals/workshops/general/2022_workshop-ideas.md) — Workshop material.
+- [YSC Workshop Materials_](../../docs/2022/route-and-learning-festivals/workshops/2022_ysc-workshop-materials.md) — Workshop material.
+- [[OLD] Spokes 2022 Workshop Ideas](../../docs/2022/route-and-learning-festivals/workshops/general/2022_old-spokes-2022-workshop-ideas.md) — Workshop material.
+- [biking_training adventures!](../../docs/2022/onboarding-2022/2022_biking-training-adventures.md) — Boston training ride options.
+- [cs_go_by_bike_massdot](../../docs/2022/fundraising/safety-flyers/2022_cs-go-by-bike-massdot.md) — Bike safety handouts used at the workshop.
+- [paper-speaker-template](../../docs/2022/route-and-learning-festivals/workshops/electronics/2022_paper-speaker-template.md) — Workshop material.
+- [potential hosts](../../docs/2022/route-and-learning-festivals/2022_potential-hosts.md) — Personal-network host leads by state.
+- [safety tips flyers_](../../docs/2022/fundraising/safety-flyers/2022_safety-tips-flyers.md) — Bike safety handouts used at the workshop.
+- [solar cell workshop](../../docs/2022/route-and-learning-festivals/workshops/solar-cell/2022_solar-cell-workshop.md) — Workshop material.
+- [team teaching and outdoor experience](../../docs/2022/onboarding-2022/2022_team-teaching-and-outdoor-experience.md) — Team teaching/outdoor experience bios.
+- [where we want to go!](../../docs/2022/route-and-learning-festivals/2022_where-we-want-to-go.md) — Early state-by-state route brainstorm.
+- [Bio Pictures and captions](../../docs/2022/social-media-blog-website-media/2022_bio-pictures-and-captions.md) — Index of rider bio photo sets (Maxwell, Mariela, Sophia, Keaten, Simone, Franklin, Robert) with the photo captions the riders wrote for the website bios.
+- [Blog (posted 2022-01-20): Spokes is Happening Summer 2022!](../../docs/2022/social-media-blog-website-media/2022_blog-posted-2022-01-20-spokes-is-happening.md) — Announcement blog post (1/20/22) that Spokes restarts for summer 2022.
+- [Cruise Foundation](../../docs/2022/fundraising/grants/cruise-foundation/2022_cruise-foundation.md) — Cruise Industry Charitable Foundation application files.
+- [Darn Tough Micro Crew Influencer Program](../../docs/2022/fundraising/grants/2022_darn-tough-micro-crew-influencer-program.md) — Darn Tough Micro Crew influencer application (sock sponsorship ask).
+- [Entergy Charitable Foundation](../../docs/2022/fundraising/grants/2022_entergy-charitable-foundation.md) — Entergy Charitable Foundation application skeleton (rejected).
+- [New Earth Foundation](../../docs/2022/fundraising/grants/2022_new-earth-foundation.md) — New Earth Foundation letter of intent (rejected).
+- [Saxena Family Foundation letter](../../docs/2022/fundraising/grants/2022_saxena-family-foundation-letter.md) — Letter to Saxena Family Foundation.
+- [Spokes 2022 _Board of Directors_](../../docs/2022/fundraising/2022_spokes-2022-board-of-directors.md) — Team roster used as "board" in grant applications.
+- [Sprouts app](../../docs/2022/fundraising/grants/2022_sprouts-app.md) — Sprouts Farmers Market donation guidelines/application.
+- [TBP application team resumes (merged)](../../docs/2022/fundraising/grants/tbp-application/2022_tbp-team-resumes.md) — Resumes of 2022 team members submitted with the TBP grant; shows rider backgrounds and contact info.
+- [Team Mission Statement(s)](../../docs/2022/fundraising/2022_team-mission-statement-s.md) — Mission statement 200-word version and 2018 statement of purpose.
+- [Which Spokes Member Are You?](../../docs/2022/social-media-blog-website-media/2022_which-spokes-member-are-you.md) — Draft quiz content for a social-media 'Which Spokes member are you' post: each rider's answers (rest-stop habits, electrolytes, shoes, quotes). Fun reference fo
+- [[OLD] Budget of Expenses](../../docs/2022/finance-budget/2022_old-budget-of-expenses.md) — Earliest 2022 rough budget: expenses about $55.8k (bikes $11.2k, rental car $6k, food $3k) against $23k expected income, net need $32.8k. Obsolete but shows the
+- [questions](../../docs/2022/fundraising/2022_questions.md) — Quick answers on W-9, legal name, 501(c)(3) status for grant forms.
+- [spokes_bod](../../docs/2022/fundraising/grants/cruise-foundation/2022_spokes-bod.md) — Cruise Industry Charitable Foundation application files.
+- [spokes_financials_for_cruise](../../docs/2022/fundraising/grants/cruise-foundation/2022_spokes-financials-for-cruise.md) — Cruise Industry Charitable Foundation application files.
+
+## Blog posts (63)
+
+- 2022-05-22 · [Our First Learning Festival (in MA)](../../blogs/2022/2022-05-22_our-first-learning-festival-in-ma.md)
+- 2022-06-03 · [First Day!](../../blogs/2022/2022-06-03_first-day.md) — Washington, DC → Stafford, VA
+- 2022-06-05 · [Day 2: CONTINUED and Day 4: The Lake](../../blogs/2022/2022-06-05_day-2-continued-and-day-4-the-lake.md) — Stafford, VA → Mineral, VA
+- 2022-06-08 · [Belated Day 3: Our First Learning Festival ✨on the road✨](../../blogs/2022/2022-06-08_belated-day-3-our-first-learning-festival-on-the-road.md) — Louisa, VA → Charlottesville, VA
+- 2022-06-08 · [Day 5: Into the Woods (and up the Mountain)](../../blogs/2022/2022-06-08_day-5-into-the-woods-and-up-the-mountain.md) — Charlottesville, VA → Loft Mountain Campground, VA
+- 2022-06-10 · [Day 7: We Came, We Saw, We Walked up the Hill](../../blogs/2022/2022-06-10_day-7-we-came-we-saw-we-walked-up-the-hill.md) — Lexington, VA · 45 mi
+- 2022-06-10 · [Day 8: Eat, Sleep, Bike](../../blogs/2022/2022-06-10_day-8-eat-sleep-bike.md) — Lexington, VA → Roanoke, VA · 55 mi
+- 2022-06-12 · [Day 10: Longest Ride So Far!](../../blogs/2022/2022-06-12_day-10-longest-ride-so-far.md) — Abingdon, VA · 78 mi
+- 2022-06-14 · [Day 11: Welcome to the Family](../../blogs/2022/2022-06-14_day-11-welcome-to-the-family.md) — Abingdon, VA → Breaks Interstate Park (VA/KY border) · 70 mi
+- 2022-06-16 · [Day 12: Taking a Break at Breaks](../../blogs/2022/2022-06-16_day-12-taking-a-break-at-breaks.md)
+- 2022-06-17 · [Day 14: The Ducks of Hazard](../../blogs/2022/2022-06-17_day-14-the-ducks-of-hazard.md) — Wayland, KY → Hazard, KY · 41.7 mi
+- 2022-06-18 · [Day 15, 16, 17: Relax, you're in the mountains](../../blogs/2022/2022-06-18_day-15-16-17-relax-you-re-in-the-mountains.md) — Hazard, KY → Red River Gorge, KY
+- 2022-06-20 · [Day 18: A Type B- High Energy Type of Day](../../blogs/2022/2022-06-20_day-18-a-type-b-high-energy-type-of-day.md) — Red River Gorge, KY → Lexington, KY · 68.34 mi
+- 2022-06-22 · [Day 19: Fathers, feasts, and the friends we made along the way](../../blogs/2022/2022-06-22_day-19-fathers-feasts-and-the-friends-we-made-along-the-way.md) — Lexington, KY → Liberty, KY · 63.79 mi
+- 2022-06-24 · [Day 20: 90 miles and a visit with an old friend](../../blogs/2022/2022-06-24_day-20-90-miles-and-a-visit-with-an-old-friend.md) — Liberty, KY → Mammoth Cave, KY (campground) · 90 mi
+- 2022-06-24 · [Day 21: Caves, Cows, Corn, and Corvettes!](../../blogs/2022/2022-06-24_day-21-caves-cows-corn-and-corvettes.md) — Mammoth Cave, KY → Bowling Green, KY · 30.8 mi
+- 2022-06-25 · [Day 22: News Travels Fast and Day 23: We Travel 13.0 mph](../../blogs/2022/2022-06-25_day-22-news-travels-fast-and-day-23-we-travel-13-0-mph.md) — Bowling Green, KY → Hartford, KY · 50.72 mi
+- 2022-06-26 · [Day 24: Chicken and Corn. Straight from the source.](../../blogs/2022/2022-06-26_day-24-chicken-and-corn-straight-from-the-source.md) — Hartford, KY → Henderson, KY · 62.9 mi
+- 2022-06-27 · [Day 25: Welcome to the Land of Lincoln!](../../blogs/2022/2022-06-27_day-25-welcome-to-the-land-of-lincoln.md) — Henderson, KY → Harrisburg, IL
+- 2022-06-27 · [Day 26: Baking Brad](../../blogs/2022/2022-06-27_day-26-baking-brad.md) — Harrisburg, IL → Murphysboro, IL · 51 mi
+- 2022-06-30 · [Day 27: I am in Misery](../../blogs/2022/2022-06-30_day-27-i-am-in-misery.md) — Murphysboro, IL → Perryville, MO · 44 mi
+- 2022-07-02 · [Day 0: Let’s Rewind to our DC Learning Festival](../../blogs/2022/2022-07-02_day-0-let-s-rewind-to-our-dc-learning-festival.md)
+- 2022-07-02 · [Day 28: St. Louis Blues](../../blogs/2022/2022-07-02_day-28-st-louis-blues.md) — Perryville, MO → Chesterfield, MO · 92 mi
+- 2022-07-02 · [Day 29 and Day 30: STL means St. Louis!](../../blogs/2022/2022-07-02_day-29-and-day-30-stl-means-st-louis.md)
+- 2022-07-11 · [Day 34: Fourth of July and Day 35: Our First Century](../../blogs/2022/2022-07-11_day-34-fourth-of-july.md) — Lake of the Ozarks, MO → Springfield, MO · 105 mi
+- 2022-07-14 · [Day 36: French Connection](../../blogs/2022/2022-07-14_day-36.md) — Springfield, MO → Carthage, MO · 71.7 mi
+- 2022-07-14 · [Day 37: 404 Page Not Found, and Day 38: Lakefront Rest Day](../../blogs/2022/2022-07-14_day-37-404-page-not-found-and-day-38-lakefront-rest-day.md) — Carthage, MO → Farlington, KS · 60 mi
+- 2022-07-14 · [Day 39: Oh Deer](../../blogs/2022/2022-07-14_day-39-oh-deer.md) — Farlington, KS → Eureka, KS · 106 mi
+- 2022-07-14 · [Day 40: HALFWAY DONE!!](../../blogs/2022/2022-07-14_day-40-halfway-done.md) — Eureka, KS → Newton, KS · 75 mi
+- 2022-07-15 · [Day 41: Newton Students Knew-Tons More After Our Workshops!](../../blogs/2022/2022-07-15_day-41-newton-students-knew-tons-more-after-our-workshops.md) — Newton, KS → Newton, KS
+- 2022-07-15 · [Day 42: Jesus, Would You Look At the Time](../../blogs/2022/2022-07-15_day-42-jesus-would-you-look-at-the-time.md) — Newton, KS → Great Bend, KS · 92 mi
+- 2022-07-16 · [Day 43: The Windy City is... Dodge City, KS](../../blogs/2022/2022-07-16_day-43-the-windy-city-is-dodge-city-ks.md) — Great Bend, KS → Dodge City, KS · 87.6 mi
+- 2022-07-16 · [Day 44: And Then There Were Three](../../blogs/2022/2022-07-16_day-44-and-then-there-were-three.md) — Dodge City, KS → Lakin, KS · 49.8 mi
+- 2022-07-20 · [Day 45: A Whole Lot to Love's](../../blogs/2022/2022-07-20_day-45-a-whole-lot-to-love-s.md) — Lakin, KS → Lamar, CO · 85 mi
+- 2022-07-20 · [Day 46 + 47: Car Wash vs DQ Ice Cream](../../blogs/2022/2022-07-20_day-46-47-car-wash-vs-dq-ice-cream.md) — Lamar, CO → Fowler, CO · 81.5 mi
+- 2022-07-20 · [Spokes Day 48: Where the Wild Things Are](../../blogs/2022/2022-07-20_spokes-day-48-where-the-wild-things-are.md) — Fowler, CO → Colorado Springs, CO · 68 mi
+- 2022-07-21 · [Day 49 and Day 50: Alter-Egos from Another Coast](../../blogs/2022/2022-07-21_day-49-and-day-50-alter-egos-from-another-coast.md) — Colorado Springs, CO → Centennial, CO · 65 mi
+- 2022-07-29 · [Day 51: A Tale of Two Cities & Day 52: Black Hawk Up](../../blogs/2022/2022-07-29_day-51-a-tale-of-two-cities-day-52-black-hawk-up.md) — Centennial, CO → Blackhawk, CO · 54 mi
+- 2022-07-30 · [Day 53: A Break for Our Brakes](../../blogs/2022/2022-07-30_day-53-a-break-for-our-brakes.md) — Blackhawk, CO → Silverthorne, CO · 55 mi
+- 2022-07-30 · [Day 54: A Magical Day](../../blogs/2022/2022-07-30_day-54-a-magical-day.md) — Silverthorne, CO → Glenwood Springs, CO · 90.7 mi
+- 2022-07-31 · [Day 56: Cloudy with a chance of fugitive](../../blogs/2022/2022-07-31_day-56-cloudy-with-a-chance-of-fugitive.md) — Rifle, CO → Grand Junction, CO · 76.4 mi
+- 2022-07-31 · [Day 57: Entering Hatu... or Utah?](../../blogs/2022/2022-07-31_day-57-entering-hatu-or-utah.md) — Grand Junction, CO → Thompson Springs, UT · 84.6 mi
+- 2022-07-31 · [Spokes Day 55: I 70, You 70, We all 70, for I 70](../../blogs/2022/2022-07-31_spokes-day-55-i-70-you-70-we-all-70-for-i-70.md) — Glenwood Springs, CO → Rifle, CO
+- 2022-08-06 · [Day 58: If You Give a Cyclist a Rain Storm](../../blogs/2022/2022-08-06_day-58-if-you-give-a-cyclist-a-rain-storm.md) — Thompson Springs, UT → Moab, UT · 50 mi
+- 2022-08-06 · [Day 60: Today Was ...... MEH](../../blogs/2022/2022-08-06_day-60-today-was-meh.md) — Moab, UT → Green River State Park, UT · 52 mi
+- 2022-08-08 · [Day 61: Battling Sand and Night](../../blogs/2022/2022-08-08_day-61-battling-mud-and-night.md) — Green River State Park, UT → Capitol Reef National Park, UT · 93 mi
+- 2022-08-09 · [Day 64: Trees Growing Out of Rock](../../blogs/2022/2022-08-09_day-64-trees-growing-out-of-rock.md) — Escalante, UT → Bryce Canyon National Park, UT · 49 mi
+- 2022-08-09 · [Day 65: Year 23](../../blogs/2022/2022-08-09_day-65-year-23.md) — Bryce Canyon, UT → Bryce Canyon, UT
+- 2022-08-09 · [Day 66: The Scenery on This Bike Ride Was The G.O.A.T.s](../../blogs/2022/2022-08-09_day-66-the-scenery-on-this-bike-ride-was-the-g-o-a-t-s.md) — Bryce Canyon Pines Campground, UT → Cedar City, UT · 74 mi
+- 2022-08-09 · [Day 67: Tired of Tires... and COVID?](../../blogs/2022/2022-08-09_day-67-tired-of-tires-and-covid.md) — Cedar City, UT → Milford, UT · 54 mi
+- 2022-08-09 · [Spokes Day 62 + 63: Guy Fieri Was Here (sort of)](../../blogs/2022/2022-08-09_spokes-day-62-63-guy-fieri-was-here-sort-of.md) — Capitol Reef NP, UT → Escalante, UT · 70 mi
+- 2022-08-13 · [Day 68/69: If You Like Bikes, Honk!](../../blogs/2022/2022-08-13_day-68-69-if-you-like-bikes-honk.md) — Milford, UT → Baker, NV · 84 mi
+- 2022-08-13 · [Day 70: Driving can be fun](../../blogs/2022/2022-08-13_day-70-driving-can-be-fun.md) — Baker, NV → Ely, NV · 63 mi
+- 2022-08-14 · [Day 71: Not Lonely on The Loneliest Road](../../blogs/2022/2022-08-14_day-71-not-lonely-on-the-loneliest-road.md) — Ely, NV → Eureka, NV · 78 mi
+- 2022-08-14 · [Day 72: Into The Void](../../blogs/2022/2022-08-14_day-72-into-the-void.md) — Eureka, NV → Austin, NV · 63 mi
+- 2022-08-15 · [Day 73: High mileage, high dollar bills](../../blogs/2022/2022-08-15_day-73-high-mileage-high-dollar-bills.md) — Austin, NV → Fallon, NV · 112 mi
+- 2022-08-16 · [Day 74: One last day of rest](../../blogs/2022/2022-08-16_day-74-one-last-day-of-rest.md)
+- 2022-08-16 · [Day 75: Last Day of Teaching, First Day of School](../../blogs/2022/2022-08-16_day-75-last-day-of-teaching-first-day-of-school.md) — Fallon, NV → Fallon, NV
+- 2022-08-19 · [Day 76: Where is Robert? And Other Frequently Asked Questions](../../blogs/2022/2022-08-19_day-76-where-is-robert-and-other-frequently-asked-questions.md) — Fallon, NV → Carson City, NV · 63 mi
+- 2022-08-21 · [Day 77: So Long And Thanks For All the Fish](../../blogs/2022/2022-08-21_day-77-so-long-and-thanks-for-all-the-fish.md) — Carson City, NV → Lake Tahoe, CA · 47 mi
+- 2022-08-23 · [Day 78: Spokes of One Wheel](../../blogs/2022/2022-08-23_day-78-spokes-of-one-wheel.md) — South Lake Tahoe, CA → Sacramento, CA · 103 mi
+- 2022-08-27 · [Day 79: There Is So Much To Look Forward To, and You Have No Idea What It Is](../../blogs/2022/2022-08-27_day-79-there-is-so-much-to-look-forward-to-and-you-have-no-idea-what-it-is.md) — Sacramento, CA → Vacaville, CA · 56 mi
+- 2022-09-01 · [Day 80: Oh, the Places You'll Go!](../../blogs/2022/2022-09-01_day-80-oh-the-places-you-ll-go.md) — Vacaville, CA → San Francisco, CA · 73.2 mi

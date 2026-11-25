@@ -1,0 +1,23 @@
+# Highlights - Spokes 2026 (for a 2027 team)
+
+- Spokes 2026 tracked $37,115 raised toward a $50K goal; crowdfunding was the largest source (official ~$19K, sheet $21,115), with Edgerton $5,000, ELO grant $5,000, School of Engineering $2,000, MIT.nano $2,000 (2026, source: Spokes 2026 Fundraising)
+- Total 2026 budget ~$41,290; spent $35,164 at last edit; bikes/gear category overspent by $1,949 (11.5%), food recorded only $2.4K of $7.2K budget (2026, source: Expenses + Budget)
+- Seven Trek Checkpoint ALR 3 Gen 3 gravel bikes cost $1,188.90 each after Trek Cambridge discount ($9,500 order via Buy2Pay); Trek gives ~20% off, free tune-ups at Trek shops en route, Cambridge Bicycle gives wholesale gear (2026, source: Gear / Spokes 2026 Advice)
+- Rental car one-way was $5,912 (Avis) plus $590 cargo van to DC for bikes; recommended a 2-way rental to avoid shipping bikes home (budgeted $1,115 shipping) (2026, source: Expenses + Budget / Crash Course)
+- Each rider gets a personal gear budget (~$350: 2 bibs, sun sleeves, gloves, sunglasses); decide reimbursement of flights and gear before the trip; buy bibs not shorts; Pactimo recommended (2026, source: Meeting Minutes / Spokes 2026 Advice)
+- Start department fundraising emails in the fall (deadlines close); the MIT 24-hour challenge (Pi Day) is the only time to ask alumni; raffle of donated bike tune-ups and a bake sale netted ~$400 (2026, source: Crash Course / Meeting Minutes)
+- 2027 inherits ~$19K; team needs ~$40K; donor tier package (Summit $10K+ to Trailhead $500) is ready to reuse (2026, source: Crash Course / Donor Package)
+- Learning festivals: ~10 per trip; 4 rotating workshop stations; repeat DC correctional facility, Tazewell VA church, Hazard KY Challenger Center, Bowling Green AccelerateKY, Fallon Youth Club NV; more correctional-facility LFs recommended (2026, source: Crash Course / 2026 Route)
+- 99% of housing was planned before the trip; Warmshowers and churches are best; LF hosts sometimes provide housing; message 5 hosts each and start by early March (2026, source: Crash Course / Meeting Minutes)
+- Avoid gravel descents, Skyline Drive climb, Breaks Interstate Park campground (rain), Freezeland Rd, Hell for Certain Rd; follow USBR 76 and Katy Trail (2026, source: 2025 Route Notes / 2026 Route Notes)
+- Dogs in Kentucky triggered a team debate on 6/13 about skipping or rerouting; give everyone the right to not ride any day they feel unsafe (2026, source: Meeting Minutes)
+- Tubeless tires over-inflated (max 35 psi) caused flat after flat in Kansas; learn basic bike repair; carry spare tubes (2026, source: Crash Course / Spokes 2026 Advice)
+- Replacement bike scramble on 7/29 in Utah/Nevada (Trek Checkpoint ALR 3 size L): call bike shops in Salt Lake City, Las Vegas, Cedar City; keep spare parts and ask Trek about replacements (2026, source: Meeting Minutes)
+- MIT limit is 7 seats in one vehicle (no passenger vans); Edgerton may want a second vehicle if cargo van seats 5; Edgerton wants a safety officer role and 26 should help 27 find department funding in fall (2026, source: Meeting Minutes 10/8/26)
+- Role definitions: card holders form the finance team; budget needs 2-3 people; housing shared across team on trip; suggested Blog Lead and Documentation roles (2026, source: Meeting Minutes)
+- Heat: rest stops every 10 miles at 108F, ICE, know heat-stroke signs; alum advice: churches were the most helpful hosts; ask restaurants for free food (2026, source: Meeting Minutes, Manaas advice)
+- Recruiting timeline 2026: Round-1 Zoom interviews Oct 5-10, Round-2 in-person group interviews Oct 24-25, team reply by Nov 8, waitlist by Nov 10; templates saved (2026, source: Emails / Interview Doc)
+- Budget per day: food planned $80/day-month; trip is 75 days: 55 biking, 10 rest, 10 teaching (2026, source: Crash Course / Expenses + Budget)
+- LF design guidance by age: juvenile (no razor cutters, pre-cut), elementary (paper/utility scissors), middle (razors ok), high (goal-driven); turnover time 8-10 minutes; 4 workshops: Invisible Force, Design Your Dream Home, Turn It On, Iodine Clock (Now You See Me), Monster Genome (2026, source: Meeting Minutes)
+
+More detail per area: _work/highlights_lf.md, highlights_blogsA.md, highlights_blogsB.md, highlights_receipts.md
