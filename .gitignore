@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+raw/blog_batches/
+tools_tmp*/
