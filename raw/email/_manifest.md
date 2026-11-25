@@ -76,3 +76,4 @@ Format: date | subject | thread file or discard reason. Source: /Users/Sarah/spo
 2026-11-24 21:46 | Please Run MVR for MIT SPOKES 2027 Team | raw/email/2027/2026-11-24_please-run-mvr-for-mit-spokes-2027-team.md
 2026-11-24 02:14 | Re: MIT Spokes + SoE / MIT for America | raw/email/2027/2026-11-23_mit-spokes-soe-mit-for-america.md
 2026-11-24 23:53 | Re: Spokes 27 - Edgerton first meeting  | raw/email/2027/2026-11-23_spokes-27-edgerton-first-meeting.md
+2026-11-25 05:18 | [MIT Spokes 2026] Olga Vassiliev commented on Day 74: One Last Century of Sidequesting | discarded: WordPress blog comment notification (supportive comment, no decision/deadline/amount/host info)
