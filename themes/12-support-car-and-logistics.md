@@ -18,6 +18,9 @@ _Last built: 2026-11-24. Sources: 44 docs, 14 blog posts (plus the 78-post tag d
 - **Use the correct card for each expense.** Travel card: flights, gas, rentals booked on a trip. ProCard: supplies. **Never buy gas on a ProCard.** Edgerton books the main rental and pays from the account, not the travel card. (2025, 2024)
 - **Register travel with Edgerton at least 2 weeks ahead for out-of-state trips.** Send Kerberos IDs, dates and destination. Do it in the spring; 2026 logged "everyone register travel" on 4/27. (2025, 2026)
 
+## Recent updates
+- **2026-11-22** (2027) Interest in a **bigger cargo/passenger van** (more room, hitch bike rack), with concern about city driving and parking in SF. Edgerton writes the rental contract. To discuss further. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 | Year | Support vehicle (company, type, cost) | Start-of-trip vehicles | Flights | End-of-trip / return | Gas | Notes |
 |---|---|---|---|---|---|---|

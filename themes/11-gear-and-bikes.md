@@ -13,6 +13,9 @@ _Last built: 2026-11-24. Sources: 40 docs, 127 blog-tag entries (56 gear + 68 bi
 - **Teach derailleur/brake/chain basics before leaving Boston.** Derailleur and cable failures hit 2026, 2025, 2024, 2022 and 2013; 2019 spent $2,815 on repairs, 2026 about $2,000 over the bike-equipment budget. (2019, 2022, 2024, 2025, 2026)
 - **Racks and roof bags failed repeatedly**: 2024's non-hitch rack fell off and dragged two bikes; 2022's first rack didn't fit the rental; 2026's roof bag dumped camp gear on I-65. Test the rack and bag on the **actual rental** before departure. (2024, 2022, 2026)
 
+## Recent updates
+- **2026-11-22** (2027) The team wants bikes **earlier than 2026's spring-break purchase**: get fitted before IAP, then order. The 2026 Trek model looks right. Fittings are at Trek (Alewife, Red Line); the PT fit comes after you have the bike. Gear will call Trek this week and reply to Trek and Cambridge Bicycle. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 | Year | Riders | Bike (qty × unit paid) | Bike spend | Shop / discount | Other gear notes |
 |---|---|---|---|---|---|

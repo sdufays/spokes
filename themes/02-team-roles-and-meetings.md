@@ -13,6 +13,10 @@ _Last built: 2026-11-24. Sources: 33 docs, 6 blog posts, 5 emails (plus contacts
 - **Vehicle capacity vs. team size:** MIT will not insure/allow more than 7 seats in one vehicle; 2027 has 8 members and one (Liv) has no license so cannot be an MVR-cleared driver (2027, 2026, 2025). Settle this in the car/team plan (see Pitfalls).
 - **Handoff chores:** 2026 asked its alumni to stay active for you (e.g., look for department funding that closes in the fall); mailing lists (spokes-2027@mit.edu → spokes-current) need adjusting (2026).
 
+## Recent updates
+- **2026-11-22** (2027) Roles assigned by show of hands, then trimmed to about 3–4 per person. **New Food coordinator role** (Max, Gloria, Sarah). Each subgroup will name one lead for outside contacts so hosts and partners aren't confused by changing names. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+- **2026-11-22** (2027) Communication: WhatsApp community with one sub-channel per team (handles weak rural signal better than iMessage), MIT emails, a shared contact doc, and a shared Spokes Google Calendar for deadlines. Weekly meetings; Zoom over winter break. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 
 | Year | Team size | Meeting cadence / format | Trip length | Notes |

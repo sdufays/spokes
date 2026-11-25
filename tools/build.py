@@ -308,7 +308,7 @@ Everything a Spokes team needs to plan and ride the trip, consolidated from **ev
         name = desc.split(" — ")[0]
         exists = os.path.exists(f"themes/{slug}.md")
         fh.write(f"   - [{name}](themes/{slug}.md)" + ("" if exists else " *(pending)*") + "\n")
-    fh.write(f"""2. **[2027 working folder](2027/)** — this year's meeting notes and plans.
+    fh.write(f"""2. **[2027 working folder](2027/)**: this year's **[meeting notes](2027/meetings/)** (what happened + follow-ups) and **[fundraising outreach spreadsheet](2027/fundraising/)** (every MIT department/lab/office with best contact and past giving).
 3. **[Contacts](contacts/)** — {len(rows)} people & orgs (sponsors, hosts, LF partners, MIT staff, alumni, bike shops…), with years and outcomes. Spreadsheet: [contacts.csv](contacts/contacts.csv).
 4. **[Master guides](docs/master-guide/)** — the official how-to guides written by past teams (updated through 2026).
 

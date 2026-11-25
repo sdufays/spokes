@@ -15,6 +15,9 @@ _Last built: 2026-11-24. Sources: ~45 docs, ~110 blog posts (via the by-tag plan
 - **Never bike onto an interstate, tunnel or no-shoulder highway without checking.** The worst roads were Moab to I-70/Crescent Junction, US-285 out of Denver, KS-68 and US-50 out of Tahoe (2026, 2025, 2024).
 - **Fix the chain of command before you leave.** Edgerton pays insurance; do not buy any (2025). For accidents call Edgerton first. See Playbook step 8.
 
+## Recent updates
+- **2026-11-22** (2027) The team wants real training: injury prevention and long-term knee/joint health (parents are worried; some 2026 riders didn't train much). A member is in touch with the bike-fit PT and has a nutrition contact. Edgerton requires a team safety officer this year. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 | Year | Team | Training / health facts | Injuries & incidents (from blogs/docs) |
 |---|---|---|---|

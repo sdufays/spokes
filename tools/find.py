@@ -7,7 +7,7 @@ Examples:
   tools/find.py --tag sponsorship --kind doc     # all sponsorship docs, no keyword
   tools/find.py dog --kind blog --since 2024     # blog posts about dogs from 2024 on
   tools/find.py trek --contacts                  # search the contacts list
-Options: --year Y | --since Y | --tag T | --kind blog|doc|email|theme | --contacts | -n N (max results)
+Options: --year Y | --since Y | --tag T | --kind blog|doc|email|theme|2027 | --contacts | -n N (max results)
 """
 import argparse, csv, os, re, sys
 
@@ -29,7 +29,7 @@ if a.contacts:
     sys.exit()
 
 rows = list(csv.DictReader(open(os.path.join(ROOT, "catalog.csv"))))
-for d, kind in (("themes", "theme"), ("email", "email")):
+for d, kind in (("themes", "theme"), ("email", "email"), ("2027", "2027")):
     for root, _, files in os.walk(os.path.join(ROOT, d)):
         for f in files:
             if f.endswith(".md") and f != "README.md":

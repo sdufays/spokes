@@ -21,8 +21,8 @@ Everything a Spokes team needs to plan and ride the trip, consolidated from **ev
    - [Media, social media, website & blog](themes/15-media-social-website.md)
    - [Recruiting & onboarding](themes/16-recruiting-and-onboarding.md)
    - [Top lessons learned & advice from every past team (cross-cutting; strongest, most repeated advice first)](themes/17-lessons-learned.md)
-2. **[2027 working folder](2027/)** — this year's meeting notes and plans.
-3. **[Contacts](contacts/)** — 2758 people & orgs (sponsors, hosts, LF partners, MIT staff, alumni, bike shops…), with years and outcomes. Spreadsheet: [contacts.csv](contacts/contacts.csv).
+2. **[2027 working folder](2027/)**: this year's **[meeting notes](2027/meetings/)** (what happened + follow-ups) and **[fundraising outreach spreadsheet](2027/fundraising/)** (every MIT department/lab/office with best contact and past giving).
+3. **[Contacts](contacts/)** — 3024 people & orgs (sponsors, hosts, LF partners, MIT staff, alumni, bike shops…), with years and outcomes. Spreadsheet: [contacts.csv](contacts/contacts.csv).
 4. **[Master guides](docs/master-guide/)** — the official how-to guides written by past teams (updated through 2026).
 
 ## Browse

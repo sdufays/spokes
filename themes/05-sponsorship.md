@@ -15,6 +15,10 @@ Scope: companies and businesses (cash, gear, food, services), sponsor tiers/agre
 - **Deliver on sponsor benefits and thank everyone:** the 2026 tier package (Summit $10k+ → Trailhead $500) promised jersey logos, social posts, website donor page; no one reached the top tiers in 2026 (only $1k and $500 donors). Collect host/sponsor mailing addresses *during* the trip (2025 thank-you card address sheet stayed empty). (2026, 2025)
 - **Hard "no" list so you don't re-ask:** GoPro (athletes only, 2018), Sony (no donations, 2018), Tern (2024), Aldi (can't fund MIT, 2022), North Face ($2,500 asked 2019, no), Gore-Tex (2019), Kars4Kids (2025 no after $750 in 2024), Museum of Science (2025 no), Tootsie Roll / Nature Valley / Quaker (2025 no), Tom's (2025 no). (various)
 
+## Recent updates
+- **2026-11-22** (2027) Ambitions: Red Bull (helmets), sunscreen brands, food/nutrition brands (list in the meeting doc). Plan to start social media before the trip and use it as leverage for free products. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+- **2026-11-22** (2027) Open question: does every sponsorship need an Edgerton-approved sponsorship packet first? Some members suggested skipping approval. Ask the 2026 team and Edgerton before reaching out, and keep all money going to the Spokes cost object. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 Company/in-kind only (department, grant and crowdfunding totals live in `03-fundraising`).
 

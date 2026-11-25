@@ -1,4 +1,4 @@
-# Contacts — sponsor (289)
+# Contacts — sponsor (287)
 
 | Name | Org | Role / notes | Email | Phone | Where | Years | Outcome |
 |---|---|---|---|---|---|---|---|
@@ -77,7 +77,6 @@
 | Steven Wheatman, president | MIT Club of Delaware Valley | company/in-kind ask; MIT alumni club contact (outreach) | swheatman@alum.mit.edu |  |  | 2026, 2025 | Not contacted (2026) |
 | Stuart Anderson | Mi Duole Cycling Team (Utah) | company/in-kind ask; MIT alumni club contact (outreach) | stuart@crowncouncil.com |  |  | 2026, 2025 | Not contacted (2026) |
 | Thai Thai | Restaurant | Free dinner |  |  | Bowling Green, KY | 2026 | donated meal (2026) |
-| The Coop marketing | The Coop (Harvard Coop) | Coop Gives; offered assistance instead of money (2026); MIT department fundraising ask; grant/funding source; Coop Gives grant | marketing@thecoop.com |  | Cambridge MA | 2026, 2025 | offered assistance (2025); Not contacted (2026); not funding anymore, offered assistance (2026) |
 | Z Sherlock, president | MIT Club of Colorado | company/in-kind ask; Z Sherlock president; alumni club president/contact | zsuzsa@alum.mit.edu |  | CO | 2026, 2025 | not contacted (2026); not contacted (pending for LAMIT) (2026) |
 |  | Costco | company/in-kind ask | CommunityRelations@costco.com |  |  | 2025 | emailed for clarification (2025) |
 |  | Strava | company/in-kind ask | CyclingEvents@strava.com |  |  | 2025 |  |
@@ -148,7 +147,6 @@
 | Costco | Costco | Donations team; ; Costco (gift card) ; 500 ; yes ; nedonations@costco.com ; Maxwell ; Sent as a Costco gift card. ; | nedonations@costco.com |  |  | 2023, 2022 | donated $500 gift card (2022); $500 gift card (2022); $500 gift card (2022) |
 | Eric Klopfer | CMS | 2023 confirmed funding; received: Yes; Spokes point person Duha | klopfer@mit.edu |  |  | 2023 | donated $500 (Yes) (2023) |
 | Gregory | OME | 2023 confirmed funding; received: Yes; Spokes point person Joy |  |  |  | 2023 | donated $500 (Yes) (2023) |
-| Karen Frost | MIT Museum | 2023 confirmed funding; received: Yes; Spokes point person Katherine | kfrost@mit.edu |  |  | 2023 | donated $1000 (Yes) (2023) |
 | Steven Barrett | Course 16 | 2023 confirmed funding; received: Yes; Spokes point person Audrey | sbarrett@mit.edu |  |  | 2023 | donated $500 (Yes) (2023) |
 | zach pena, need to concur 3149500 | Kelly-Douglas | 2023 confirmed funding; received: Reimbursements; Spokes point person Joy |  |  |  | 2023 | donated $1500 (Reimbursements) (2023) |
 | Aldi Smart Kids | Aldi |  | giving@aldi.us |  |  | 2022 | cannot fund MIT (2022) |

@@ -1,4 +1,4 @@
-# Contacts — donor (281)
+# Contacts — donor (280)
 
 | Name | Org | Role / notes | Email | Phone | Where | Years | Outcome |
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,6 @@
 | Max Goldman | MIT | Individual ask (Jess); individual donor/ask 2024 | maxg@mit.edu |  | Cambridge, MA | 2024 | asked (2024) |
 | MIT Alumni Club of Colorado | MIT Alumni Club of Colorado | Alumni club |  |  | Colorado | 2024 | donated $500 (2024) |
 | MIT Club of Southern California | MIT alumni club | Listed in MathWorks app |  |  |  | 2024 | donated $250 2024-02-26 (2024) |
-| Mitch Resnick | MIT Media Lab | Individual ask 3/3/24 (Hank); individual donor/ask 2024 | mres@media.mit.edu |  | Cambridge, MA | 2024 | said yes (amount not listed) (2024); said yes (2024) |
 | Mitzi Hawk |  | Individual donor 2024-01-03 |  |  |  | 2024 | donated $100 (2024) |
 | Morgan O'Brien | Jane Street | Employee; emailed by Jess 3/6/24; individual donor/ask 2024 | mobrien@janestreet.com |  | New York, NY | 2024 | donated $100 (2024); donated $100 (2024) |
 | Nikolai Zeldovich | MIT CSAIL | Individual ask (Jess); individual donor/ask 2024 | nickolai@csail.mit.edu |  | Cambridge, MA | 2024 | asked (2024) |

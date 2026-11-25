@@ -13,6 +13,9 @@ _Last built: 2026-11-24. Sources: 62 docs, 16 blog posts, 4 emails (plus catalog
 - **Short-form video beats blog posts for reach** (2023: reel got ~1k views; recommended reels/TikTok over blogs) — but sponsors/hosts/families still follow the blog, so do both. (2023, 2026)
 - **Don't let sponsors use the MIT name** in their own social media without permission (2022 Lightforce); and every sponsor tier from 2022 on promises logo on website, apparel and/or social posts — keep a checklist of who is owed what. (2022, 2026)
 
+## Recent updates
+- **2026-11-22** (2027) Group photo at Killian Court with bikes (Nov 23, 9 AM; jeans + MIT shirt) for the crowdfunding page before Giving Tuesday; retake in spring with real bikes and uniforms. Social media (Sarah, Liv) should start before the trip, including reels in summer. Website (Neelu) is mainly for summer blog posts. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 | Year | Website / platform & cost | Jerseys | LF/team shirts | Marketing budget line (planned → spent) | Blog posts in archive | Other media notes |
 |---|---|---|---|---|---|---|

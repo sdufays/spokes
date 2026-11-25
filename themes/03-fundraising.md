@@ -13,6 +13,38 @@ _Last built: 2026-11-24. Sources: ~70 docs, 5 blog posts, 7 emails. Recent years
 - **Always CC the team list on every outreach email** and log it in the tracker. 2024 lost track of several because they forgot to CC. (2024)
 - **Overfund on purpose.** Edgerton staff say teams try to leave ~$10K in the bank for the next team. 2025 ended about $3K over its goal, and 2022 left $10K. Report department money and grants, not small crowdfund amounts, in big grant narratives. (2024, 2022, 2025)
 
+## Recent updates
+- **2026-11-25** (2027) **Crowdfunding rules (crowdfund.mit.edu, run by MIT Annual Giving): contact crowdfund@mit.edu.** You need 5 donors of $10+ before launch and a team of 5–10 people. Goals over $20K: contact crowdfund@mit.edu first. Campaigns run 12 weeks. The 2025–26 cycle had dated application rounds (one due Oct 1), so ask now which round 2027 can join; apply via the Qualtrics form linked from crowdfund.mit.edu/p/planningtoolkit. No "Maria Walsh" appears on MIT pages. — web research, [outreach sheet](../2027/fundraising/2027_mit_department_outreach.xlsx)
+- **2026-11-25** (2027) **Alumni asks:** MIT student-life policy says to contact the Alumni Association (aa-students-services@mit.edu) before soliciting alumni. Alumni gifts under $2,000 go through the Alumni Association. The Pi Day 24-Hour Challenge has ~60 student-group/department microchallenges; how to join wasn't published, so ask the Alumni Association. — web research
+- **2026-11-25** (2027) **Department outreach sheet built:** 191 MIT units, each with a verified contact, past giving by year (2013–2026) and policy notes. Top repeat givers since 2022:
+  - Edgerton ($4–5K/yr)
+  - SoE Dean's Office ($2K in 2025 and 2026)
+  - School of Science Dean's Office ($2K in 2025)
+  - MIT.nano ($2K in 2026)
+  - Libraries ($2.5K in 2024 and 2025)
+  - MIT Museum ($1K in 2024 and 2025)
+  - Sloan Sustainability Initiative ($1K in 2025)
+  - AeroAstro ($500/yr 2023–26)
+  - Music & Theater Arts ($500/yr)
+  - DUSP ($500 in 2024 and 2025)
+  - DMSE ($500/yr)
+  - MechE ($900 in 2025)
+
+  [outreach sheet](../2027/fundraising/2027_mit_department_outreach.xlsx)
+- **2026-11-25** (2027) **Funding rules found online:**
+  - The UA Finboard is gone, replaced by the Student Group Funding Council (sgfc-exec@mit.edu). It funds ASA groups; ask whether Edgerton teams qualify.
+  - DUSP event funding: up to ~$500, request 6+ weeks ahead (a Course 11 member should submit).
+  - CAMIT mini-grants: up to $500, rolling until May 1, 2027, arts component needed.
+  - Biology's community grants exclude charities, so Spokes is a poor fit.
+  - Kelly-Douglas: individual travel only, up to $1,500; summer deadline likely mid-April.
+  - OME is now OACES (Sadé Abraham, sabra712@mit.edu).
+  - ESI closed (June 2025); use the Climate Project.
+
+  — [outreach sheet](../2027/fundraising/2027_mit_department_outreach.xlsx)
+- **2026-11-22** (2027) Fundraising comes first before Thanksgiving. Departments are split **by major**, each person emailing their own department before the end of the semester. Members said Course 6 'does not like to give money'. **Course 2 has a funding form only Course 2 students can fill out**, run per semester, so do it in spring. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+- **2026-11-22** (2027) Giving Tuesday (Dec 1) framing: 'celebrate the giving season by giving to our cause'. Send donors to the Spokes crowdfunding page, not the general Edgerton fund. The team was unsure whether Spokes may do the Pi Day 24-Hour Challenge (2024 and 2026 took part). Confirm with Edgerton. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+- **2026-11-22** (2027) Michelle is pitching SoE communications on MIT for America / 'Curiosity with a mission' (rural America angle); reply expected after Thanksgiving. One member's future employer triples employee donations to causes; they will check eligibility. Event idea: pledge-per-mile bike-a-thon. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 Figures come from each year's own tracker; they are not audited and the sources conflict in places (see notes under the table).
 

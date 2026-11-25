@@ -14,6 +14,9 @@ _Last built: 2026-11-24. Sources: ~55 docs, 2 blog posts (via catalog), 4 emails
 - **Leave ~$10k in the bank for next year's team** (Sandi's rule of thumb, 2024). 2025 carried over about $19.8k (2025).
 - **Open risk (Nov 2026):** PicRights, for The Associated Press, claims an AP image on mitspokes.com/curriculum is unlicensed and wants a reply by about Dec 7, 2026. Check whether it's real and talk to Edgerton/MIT before replying or paying (2027).
 
+## Recent updates
+- **2026-11-22** (2027) Gloria is the Edgerton contact and car-rental lead and replies to Marvelin. Card holders and finance people should also attend the first Edgerton meeting. **All Edgerton teams need a safety officer this year (maybe also a safety report)**; one member is already safety officer for another club and offered. Car rentals go through Edgerton, not the team's cards. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 | Year | Cards | Rental vehicle | Admin/finance numbers |
 |---|---|---|---|

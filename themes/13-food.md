@@ -12,6 +12,9 @@ _Last built: 2026-11-24. Sources: ~50 docs, ~160 blog posts (via `blogs/by-tag/f
 - **Cooler and kitchen failures are real risks.** A bad cooler made a 2024 rider sick, the 2025 propane stove failed for 3+ days and cost 2+ hours in Helena MT, and a church kitchen had no pot lid. Test the whole cooking setup before leaving and carry a spare canister. (2024, 2025)
 - **Keep receipts for every grocery run.** Each food receipt needs a name, date and amount in the filename, and MIT auditors checked in 2026. The 2024 food category showed only $781 because most groceries were logged elsewhere. (2026, 2024)
 
+## Recent updates
+- **2026-11-22** (2027) **Food coordinator role created** (Max, Gloria, Sarah). Goal: **eat healthier than 2026** (fewer sugary drinks and less fast food); the team is OK spending a bit more per day or fundraising for it. Past practice: bulk snacks bought ahead, and the van driver calls restaurants a day ahead asking for free meals. Cooking was raised (Max keen) though past teams advised against it. — [meeting](../2027/meetings/2026-11-22_first-meeting.md)
+
 ## Key numbers by year
 | Year | Team | Food budget | Food spent (as recorded) | Notes |
 |---|---|---|---|---|
