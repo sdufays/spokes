@@ -1,4 +1,4 @@
-# Email manifest (74 emails)
+# Email manifest (77 emails)
 
 Format: date | subject | thread file or discard reason. Source: /Users/Sarah/spokes_sources/mail/messages/
 
@@ -77,3 +77,6 @@ Format: date | subject | thread file or discard reason. Source: /Users/Sarah/spo
 2026-11-24 02:14 | Re: MIT Spokes + SoE / MIT for America | raw/email/2027/2026-11-23_mit-spokes-soe-mit-for-america.md
 2026-11-24 23:53 | Re: Spokes 27 - Edgerton first meeting  | raw/email/2027/2026-11-23_spokes-27-edgerton-first-meeting.md
 2026-11-25 05:18 | [MIT Spokes 2026] Olga Vassiliev commented on Day 74: One Last Century of Sidequesting | discarded: WordPress blog comment notification (supportive comment, no decision/deadline/amount/host info)
+2026-11-25 13:03 | Automatic reply: MIT Spokes 2027 crowdfunding page | raw/email/2027/2026-11-25_mit-spokes-2027-crowdfunding-page.md
+2026-11-25 14:58 | Re: MIT Spokes 2027 crowdfunding page | raw/email/2027/2026-11-25_mit-spokes-2027-crowdfunding-page.md
+2026-11-25 14:06 | Re: Successful Financial Access : Spokes 2026+2027 Edgerton Meeting | raw/email/2027/2026-11-15_spokes-2026-2027-edgerton-meeting.md

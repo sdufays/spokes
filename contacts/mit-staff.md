@@ -1,4 +1,4 @@
-# Contacts — mit-staff (599)
+# Contacts — mit-staff (600)
 
 | Name | Org | Role / notes | Email | Phone | Where | Years | Outcome |
 |---|---|---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | Brian Tavares | MIT Office of the Vice Chancellor (Graduate & Undergraduate Education, GUE / DUE) | Director of Finance and Administration (GUE Headquarters) — department funding contact (fit: high) | btavares@mit.edu | 617.258.7767 | Cambridge, MA | 2027 |  |
 | Britta Bell | MIT SHASS Dean's Office (development / leadership giving) | Development Officer — department funding contact (fit: low) | b_bell@mit.edu |  | Cambridge, MA | 2027 |  |
 | Catherine M. Bourgeois | MIT Research Laboratory of Electronics (RLE) | Administrative Support Services Manager, Assistant to Director — department funding contact (fit: medium) | cmbourg@mit.edu |  | Cambridge, MA | 2027 |  |
+| Catie Hsieh | MIT Alumni Association | Handles crowdfund.mit.edu setup for student teams (Dec 2026-Apr 2027 window); copy Jamie Chelel | chsieh@mit.edu |  |  | 2027 | Referred by Jamie Chelel Nov 25 2026 (2027) |
 | Chanh Phan | MIT SHASS De Florez Fund for Humor | Academic Programs Specialist (SHASS Dean's Office) — department funding contact (fit: low) | deflorezapplication@mit.edu | 617-324-2043 | Cambridge, MA | 2027 |  |
 | Cheryl Gillespie / Constance Giammatei | MIT Center for Real Estate (CRE) | Financial Officers — department funding contact (fit: low) | cheryl@mit.edu ; cgiamm@mit.edu |  | Cambridge, MA | 2027 |  |
 | Chiamaka Agbasi-Porter | MIT Lincoln Laboratory | K-12 STEM outreach coordinator (2022 article) — department funding contact (fit: low) |  |  | Cambridge, MA | 2027 |  |

@@ -22,7 +22,7 @@ Everything a Spokes team needs to plan and ride the trip, consolidated from **ev
    - [Recruiting & onboarding](themes/16-recruiting-and-onboarding.md)
    - [Top lessons learned & advice from every past team (cross-cutting; strongest, most repeated advice first)](themes/17-lessons-learned.md)
 2. **[2027 working folder](2027/)**: this year's **[meeting notes](2027/meetings/)** (what happened + follow-ups) and **[fundraising outreach spreadsheet](2027/fundraising/)** (every MIT department/lab/office with best contact and past giving).
-3. **[Contacts](contacts/)** — 3024 people & orgs (sponsors, hosts, LF partners, MIT staff, alumni, bike shops…), with years and outcomes. Spreadsheet: [contacts.csv](contacts/contacts.csv).
+3. **[Contacts](contacts/)** — 3025 people & orgs (sponsors, hosts, LF partners, MIT staff, alumni, bike shops…), with years and outcomes. Spreadsheet: [contacts.csv](contacts/contacts.csv).
 4. **[Master guides](docs/master-guide/)** — the official how-to guides written by past teams (updated through 2026).
 
 ## Browse
@@ -50,7 +50,7 @@ tools/find.py trek --contacts                 # search contacts
 ## Coverage
 | Year | Blog posts | Drive docs | Emails | Media |
 |---|---|---|---|---|
-| [2027](years/2027/) | 0 | 4 | 12 | 0 |
+| [2027](years/2027/) | 0 | 4 | 13 | 0 |
 | [2026](years/2026/) | 77 | 62 | 2 | 29 |
 | [2025](years/2025/) | 82 | 103 | 2 | 35 |
 | [2024](years/2024/) | 78 | 138 | 4 | 0 |

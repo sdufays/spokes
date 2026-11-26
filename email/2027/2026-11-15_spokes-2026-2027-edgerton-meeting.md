@@ -19,6 +19,8 @@ summary: "Spokes 2026 introduced the 2027 team to Edgerton Center; Marvelin Higg
 - 2027 roster (year, course, license): Gloria Ma 2029 6-4 Y; Kevin Wang 2028 6-3/2A Y; Max Oatney 2030 2 Y; Michelle Wang 2027 6-2 Y; Neelu Trivedi 2030 8 Y; Noah Roberts 2027 11/14 Y; Olivia (Liv) Girand 2027 2/11 N; Sarah Dufays 2027 6-4 Y.
 - Car rentals and travel dates not yet finalized as of Nov 15, 2026 (2027).
 
+- Nov 25, 2026 (Sandi Lipnoski): Spokes 2026 roughly broke even; account shows $15k available, a cushion carried over year to year for unplanned expenses. 2026 spent about $40K on the trip, a baseline for what 2027 must raise. Past years' expenses viewable in Atlas by month/FY (July starts the fiscal year). Some items can't be bought on an MIT account (to be discussed later). MVR checks come first (2027).
+
 ## Messages
 ### 2026-11-15 13:38 — Tatiana Vassiliev <tatianav@mit.edu>
 Hi Chris and Marvelin! The Spokes 2027 team has finally been formed. Roster (name, year, course, driver's license):

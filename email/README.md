@@ -4,6 +4,7 @@ Threads from Sarah's MIT mailbox that mention Spokes, newest first. Updated dail
 
 | Date | Year | Thread | Summary |
 |---|---|---|---|
+| 2026-11-25 | 2027 | [MIT Spokes 2027 crowdfunding page](2027/2026-11-25_mit-spokes-2027-crowdfunding-page.md) | Jamie Chelel (Edgerton) replied Nov 25 2026: the Alumni Association prefers crowdfunding not overlap Giving Tuesday (Dec 1 2026) or the 24-Hour Challenge (Mar 11 2027); donors can give directly to Spo |
 | 2026-11-24 | 2027 | [Please Run MVR for MIT SPOKES 2027 Team](2027/2026-11-24_please-run-mvr-for-mit-spokes-2027-team.md) | On Nov 24 2026 Marvelin asked MIT Background Check to run MVR (motor vehicle record) checks for seven Spokes 2027 members (all but Olivia Girand) so they can drive MIT rentals; results go to her and a |
 | 2026-11-23 | 2027 | [MIT Spokes + SoE / MIT for America](2027/2026-11-23_mit-spokes-soe-mit-for-america.md) | Michelle Wang pitched MIT School of Engineering communications (Mary Beth Gallagher) on partnering with SoE / MIT for America; main need is raising $50k over the next few months. Gallagher said the So |
 | 2026-11-23 | 2027 | [Validation de licence d'image The Associated Press - Reference 2952-8043-9364, MIT Spokes, France](2027/2026-11-23_picrights-ap-image-license-claim.md) | On Nov 23 2026 PicRights Europe, acting for The Associated Press, emailed mitspokes@mit.edu (in French) claiming an AP image is used on mitspokes.com/curriculum without a license, asking for proof of  |
